@@ -1,0 +1,62 @@
+name: Daily prices and evidence access
+on:
+  schedule:
+    - cron: '23 7 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daily-guide
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm test
+      - run: node scripts/update.mjs
+      - run: node scripts/check-sources.mjs
+      - run: node scripts/check-recalls.mjs
+      - name: Record schedule activation
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          const path='data/status.json';const s=JSON.parse(fs.readFileSync(path));
+          s.scheduler='active';s.schedule='07:23 UTC daily';s.workflowRunUrl=`https://github.com/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`;
+          fs.writeFileSync(path,JSON.stringify(s,null,2)+'\n');
+          JS
+      - run: npm run validate && npm run build
+      - name: Retain observations
+        run: |
+          git config user.name 'Little Atlas updater'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data dist
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh prices and check status'
+            git push
+          fi
+      - name: Deploy to Cloudflare Pages when connected
+        if: ${{ vars.CLOUDFLARE_PAGES_PROJECT != '' }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          PAGES_PROJECT: ${{ vars.CLOUDFLARE_PAGES_PROJECT }}
+        run: npx --yes wrangler@4 pages deploy dist --project-name "$PAGES_PROJECT" --branch main
+      - name: Save portable webpage
+        uses: actions/upload-artifact@v4
+        with:
+          name: little-atlas-webpage
+          path: dist/
+          retention-days: 7
+      - name: Report coverage gaps
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          const s=JSON.parse(fs.readFileSync('data/status.json'));
+          fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY,`### Price checks\n${s.counts?.succeeded||0} of ${s.counts?.attempted||0} succeeded.\n\nFailed checks preserve old timestamps. See the published Update status section.\n`);
+          if(s.counts?.failed)console.log('::warning::Some retailers could not be checked; prior observations were retained.');
+          JS

@@ -1,0 +1,15 @@
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+const root=new URL('../',import.meta.url);
+const read=path=>readFile(new URL(path,root),'utf8');
+const data={};
+for(const name of ['sources','products','evidence','offers','history','fx','status','baskets']) data[name]=JSON.parse(await read(`data/${name}.json`));
+data.generatedAt=new Date().toISOString();
+const [template,css,app,engine]=await Promise.all(['src/index.html','src/style.css','src/app.js','lib/engine.mjs'].map(read));
+const engineInline=engine.replace(/^export\s+/gm,'');
+if(/\bimport\s/.test(engineInline)) throw new Error('Browser engine must have no runtime imports');
+let html=template.replace('/* INLINE_CSS */',css).replace('<!-- SNAPSHOT -->',`<script id="snapshot" type="application/json">${JSON.stringify(data).replace(/</g,'\\u003c')}</script>`).replace('/* INLINE_JS */',`(()=>{${engineInline}\n${app}\n})();`);
+await mkdir(new URL('dist/',root),{recursive:true});
+await writeFile(new URL('dist/index.html',root),html);
+await writeFile(new URL('dist/snapshot.json',root),JSON.stringify(data,null,2));
+await writeFile(new URL('dist/_headers',root),'/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  Permissions-Policy: camera=(), microphone=(), geolocation=()\n');
+console.log(`Built self-contained page: ${data.products.length} products, ${data.sources.length} sources, ${data.offers.length} offers`);

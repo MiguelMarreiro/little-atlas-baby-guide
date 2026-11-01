@@ -1,0 +1,462 @@
+[
+  {
+    "id": "kuantokusta",
+    "name": "KuantoKusta",
+    "url": "https://www.kuantokusta.pt/c/712/cadeiras-auto",
+    "publisher": "KuantoKusta",
+    "countries": [
+      "PT"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "category": "price",
+    "purpose": "Compare Portuguese retailer listings and prices for child car seats.",
+    "authority": "Commercial price-comparison marketplace.",
+    "accessMethod": "Public category and product pages; listing details may vary by retailer.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Affiliate and retailer referral interests; not independent product evaluation.",
+    "limitations": "Prices, stock, shipping and included accessories require retailer confirmation.",
+    "cadence": "weekly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "idealo-uk",
+    "name": "idealo UK",
+    "url": "https://www.idealo.co.uk/cat/5852/car-seats.html",
+    "publisher": "idealo Internet GmbH",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "Compare UK car-seat offers and retailer prices.",
+    "authority": "Commercial price-comparison service.",
+    "accessMethod": "Public category and model comparison pages.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Retail referral and advertising interests; prices are retailer supplied.",
+    "limitations": "Check stock, delivery, exact model variant and current retailer terms before purchase.",
+    "cadence": "weekly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "arukereso",
+    "name": "Árukereső",
+    "url": "https://www.arukereso.hu/babakocsi-c3919/",
+    "publisher": "Árukereső.hu Kft.",
+    "countries": [
+      "HU"
+    ],
+    "languages": [
+      "hu"
+    ],
+    "category": "price",
+    "purpose": "Compare Hungarian pram and pushchair listings and prices.",
+    "authority": "Commercial price-comparison service.",
+    "accessMethod": "Public category and product pages.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Retail referral and advertising interests; not an independent test source.",
+    "limitations": "Hungarian listings and retailer data may omit delivery or variant differences.",
+    "cadence": "weekly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "hotukdeals",
+    "name": "HotUKDeals",
+    "url": "https://hotuk.deals/tag/baby-car-seat/",
+    "publisher": "Pepper.com GmbH",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "promotions",
+    "purpose": "Surface community-posted UK deals tagged for baby car seats.",
+    "authority": "Consumer deal community; deal accuracy and safety are not formally verified by a regulator.",
+    "accessMethod": "Public deal tag and individual deal pages.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Commercial deal platform; retailers and referral links may be present.",
+    "limitations": "Deals can expire, be store-specific or have community-voted rankings; verify the product and seller.",
+    "cadence": "weekly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "cybex-cloud-t",
+    "name": "CYBEX Cloud T i-Size",
+    "url": "https://www.cybex-online.com/en/gb/p/cs-pl-cloud-t-i-size.html",
+    "publisher": "CYBEX GmbH",
+    "countries": [
+      "GB",
+      "DE",
+      "PT",
+      "HU"
+    ],
+    "languages": [
+      "en",
+      "de",
+      "pt",
+      "hu"
+    ],
+    "category": "manufacturer",
+    "purpose": "Check manufacturer specifications, compatibility, installation guidance and manuals for Cloud T i-Size.",
+    "authority": "Product manufacturer; authoritative for its own product documentation, not independent testing.",
+    "accessMethod": "Public product page; manuals and compatibility checker linked from page.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Manufacturer product marketing and direct sales.",
+    "limitations": "Claims are manufacturer statements; confirm fit for the specific vehicle and read the current manual.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "thule-strollers",
+    "name": "Thule strollers",
+    "url": "https://www.thule.com/en-gb/strollers",
+    "publisher": "Thule Group",
+    "countries": [
+      "GB",
+      "PT",
+      "DE",
+      "HU"
+    ],
+    "languages": [
+      "en",
+      "pt",
+      "de",
+      "hu"
+    ],
+    "category": "manufacturer",
+    "purpose": "Check Thule stroller product specifications, manuals and accessories.",
+    "authority": "Product manufacturer; authoritative for its own product documentation.",
+    "accessMethod": "Public product catalogue and model pages.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Manufacturer product marketing and direct sales.",
+    "limitations": "Specifications are model and market specific; manufacturer claims are not independent evaluations.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "outnabout",
+    "name": "Out'n'About pushchairs",
+    "url": "https://outnabout.com/shop",
+    "publisher": "Out'n'About ATP Ltd",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "manufacturer",
+    "purpose": "Check current pushchair models, accessories, product details and support information.",
+    "authority": "Manufacturer and direct retailer for its own products.",
+    "accessMethod": "Public shop and model pages.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Manufacturer direct-sales interests.",
+    "limitations": "Product descriptions and customer reviews are not independent testing; verify current safety notices separately.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "mountain-buggy",
+    "name": "Mountain Buggy",
+    "url": "https://mountainbuggy.com/collections/all",
+    "publisher": "phil&teds / Mountain Buggy",
+    "countries": [
+      "NZ",
+      "GB",
+      "PT",
+      "DE",
+      "HU"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "manufacturer",
+    "purpose": "Check Mountain Buggy model listings, specifications, accessories and support information.",
+    "authority": "Product manufacturer; authoritative for its own product documentation.",
+    "accessMethod": "Public product catalogue and model pages.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Manufacturer product marketing and direct sales.",
+    "limitations": "Regional catalogue availability differs; confirm current local availability and model compatibility.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "unece-r129",
+    "name": "UN Regulation No. 129",
+    "url": "https://unece.org/transport/documents/2021/05/standards/un-regulation-no-129-rev4",
+    "publisher": "United Nations Economic Commission for Europe (UNECE)",
+    "countries": [
+      "INT"
+    ],
+    "languages": [
+      "en",
+      "fr",
+      "ru"
+    ],
+    "category": "safety",
+    "purpose": "Consult the regulatory text and revision documents for approval of enhanced child restraint systems.",
+    "authority": "Primary intergovernmental regulatory text source.",
+    "accessMethod": "Public regulation page with downloadable documents.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "None identified.",
+    "limitations": "Use the latest applicable amendment and national implementation; this page's Rev.4 document is not a guarantee it is the newest text.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "uk-opss-recalls",
+    "name": "UK Product Recalls and Alerts (OPSS)",
+    "url": "https://www.gov.uk/guidance/product-recalls-and-alerts",
+    "publisher": "Office for Product Safety and Standards, Department for Business and Trade",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "safety",
+    "purpose": "Find UK product recalls, product safety reports and safety alerts, including child equipment notices.",
+    "authority": "Official UK government product safety publication.",
+    "accessMethod": "Public GOV.UK Atom feed for recent alerts; exact model and batch still require manual review.",
+    "automation": "feed",
+    "feedUrl": "https://www.gov.uk/product-safety-alerts-reports-recalls.atom",
+    "paywall": false,
+    "commercialInterests": "None identified.",
+    "limitations": "Check exact model, batch and corrective action in the official notice; no feed URL recorded pending verification.",
+    "cadence": "daily",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "eu-safety-gate",
+    "name": "EU Safety Gate",
+    "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport",
+    "publisher": "European Commission",
+    "countries": [
+      "EU"
+    ],
+    "languages": [
+      "en",
+      "pt",
+      "de",
+      "hu"
+    ],
+    "category": "safety",
+    "purpose": "Search EU alerts for dangerous non-food products and recalls.",
+    "authority": "Official European Commission rapid alert system.",
+    "accessMethod": "Public searchable Safety Gate portal and weekly reports/newsletter.",
+    "automation": "candidate",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "None identified.",
+    "limitations": "Search by product and brand variants; portal search is not a confirmed public data feed.",
+    "cadence": "weekly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "adac-cloud-t-base-t",
+    "name": "ADAC child seat test: Cybex Cloud T + Base T",
+    "url": "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/kindersitze/kindersitztest/marken/cybex/cybex-cloud-t-id-813/",
+    "publisher": "ADAC e.V.",
+    "countries": [
+      "DE",
+      "EU"
+    ],
+    "languages": [
+      "de"
+    ],
+    "category": "testing",
+    "purpose": "Review the ADAC October 2023 test for the Cloud T seat, including the separate result for Cloud T with Base T.",
+    "authority": "Independent motoring association product test; consult the stated configuration and test date.",
+    "accessMethod": "Public model test page; summary and configuration-specific ratings shown.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Nonprofit membership organization; testing and recommendations are not manufacturer claims.",
+    "limitations": "Results apply to the tested model/configuration and 2023 test protocol; seat-alone and seat-plus-base results differ.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "which-pushchair-methodology",
+    "name": "Which? pushchair testing methodology",
+    "url": "https://www.which.co.uk/reviews/pushchairs/article/how-we-test-pushchairs-aqZh28g4XGg6",
+    "publisher": "Which? (Consumers' Association)",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "testing",
+    "purpose": "Understand Which? lab safety and durability tests, parent trials, scoring and model selection for pushchairs.",
+    "authority": "Independent consumer testing publisher; the methodology page is publicly readable.",
+    "accessMethod": "Public methodology article; individual review scores may require membership.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Member-funded consumer organization; states it buys tested products and does not accept manufacturer samples.",
+    "limitations": "UK-focused methodology and standards; individual test results or reviews may be paywalled.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "deco-pushchair-guide",
+    "name": "DECO PROteste: choosing a pushchair",
+    "url": "https://www.deco.proteste.pt/familia-consumo/bebes-criancas/dicas/como-escolher-carrinho-passeio",
+    "publisher": "DECO PROteste",
+    "countries": [
+      "PT"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "category": "guidance",
+    "purpose": "Portuguese consumer guidance on selecting a baby pushchair for intended use.",
+    "authority": "Portuguese consumer organization; guidance article, not the cited independent test dataset.",
+    "accessMethod": "Public advice article; other DECO testing content may require membership.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Consumer organization; subscription services may be promoted.",
+    "limitations": "Advice is general and does not certify a particular product or current stock.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "nhs-car-seat",
+    "name": "NHS: choosing a baby car seat",
+    "url": "https://www.nhs.uk/baby/first-aid-and-safety/safety/choosing-a-baby-car-seat/",
+    "publisher": "National Health Service (NHS)",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "guidance",
+    "purpose": "Provide UK public health guidance on selecting and fitting an infant car seat.",
+    "authority": "Official UK health service information.",
+    "accessMethod": "Public advice page.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "None identified.",
+    "limitations": "UK-specific guidance; for legal requirements and product recalls consult current official sources.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "dgs-child-accident-prevention",
+    "name": "DGS: preventing accidents in children",
+    "url": "https://www.dgs.pt/paginas-de-sistema/saude-de-a-a-z/prevencao-dos-acidentes-nas-criancas.aspx",
+    "publisher": "Direção-Geral da Saúde (DGS)",
+    "countries": [
+      "PT"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "category": "guidance",
+    "purpose": "Portuguese public health information on preventing accidents involving children, including road risks.",
+    "authority": "Official Portuguese public health authority.",
+    "accessMethod": "Public information page.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "None identified.",
+    "limitations": "Broad accident-prevention guidance; consult current traffic law and detailed car-seat guidance separately.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "egeszsegvonal-child-travel",
+    "name": "Egészségvonal: travelling with children",
+    "url": "https://egeszsegvonal.gov.hu/maradj-egeszseges/egeszseges-kornyezet/utazas/utazas-gyermekkel.html",
+    "publisher": "Egészségvonal, Hungarian Ministry of Interior",
+    "countries": [
+      "HU"
+    ],
+    "languages": [
+      "hu"
+    ],
+    "category": "guidance",
+    "purpose": "Hungarian public health guidance on travelling with children, including rear-facing infant restraint advice.",
+    "authority": "Hungarian government health information service.",
+    "accessMethod": "Public advice page.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "None identified.",
+    "limitations": "General travel guidance; does not replace current legal requirements or vehicle-specific installation instructions.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "apsi-car-seat",
+    "name": "APSI: choosing a suitable car seat",
+    "url": "https://www.apsi.org.pt/index.php/pt/component/content/article/2-uncategorised/234-a-escolha-da-cadeirinha-adequada",
+    "publisher": "Associação para a Promoção da Segurança Infantil (APSI)",
+    "countries": [
+      "PT"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "category": "guidance",
+    "purpose": "Portuguese child-safety association advice on choosing and using an age- and size-appropriate car seat.",
+    "authority": "Specialist child-safety nonprofit; guidance source, not a regulator or test laboratory.",
+    "accessMethod": "Public information article.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "Nonprofit association; none identified on the cited guidance page.",
+    "limitations": "Check publication currency and current national law; advice does not establish product-specific fit.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  },
+  {
+    "id": "ecb-euro-reference-rates",
+    "name": "ECB euro foreign exchange reference rates",
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+    "publisher": "European Central Bank (ECB)",
+    "countries": [
+      "EU",
+      "INT"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "currency",
+    "purpose": "Convert cross-country guide prices using the ECB's published euro reference exchange rates.",
+    "authority": "Official central bank reference rates.",
+    "accessMethod": "Public HTML rates page with downloadable data formats; specific automated endpoint not recorded.",
+    "automation": "candidate",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "None identified.",
+    "limitations": "Reference rates are informational and not transaction rates; ECB may suspend individual currency rates.",
+    "cadence": "weekly",
+    "checkedAt": "2026-11-01T16:34:32Z"
+  }
+]

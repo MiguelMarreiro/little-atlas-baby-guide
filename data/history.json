@@ -1,0 +1,135 @@
+[
+  {
+    "offerId": "cybex-gb-avi-spin-moon-black",
+    "price": 609.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-01T16:51:35.405Z"
+  },
+  {
+    "offerId": "cybex-gb-cloud-t-sepia-black",
+    "price": 184.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-01T16:51:35.405Z"
+  },
+  {
+    "offerId": "cybex-gb-base-t-black",
+    "price": 184.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-01T16:51:35.405Z"
+  },
+  {
+    "offerId": "cybex-gb-avi-car-adapter-black",
+    "price": 44.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-01T16:51:35.405Z"
+  },
+  {
+    "offerId": "cybex-pt-avi-spin-seashell-beige",
+    "price": 649.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-01T16:51:35.405Z"
+  },
+  {
+    "offerId": "cybex-pt-cloud-t-mirage-grey",
+    "price": 249.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-01T16:51:35.405Z"
+  },
+  {
+    "offerId": "cybex-pt-base-t-black",
+    "price": 219.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-01T16:51:35.405Z"
+  },
+  {
+    "offerId": "cybex-pt-avi-cot-adapter-black",
+    "price": 49.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-01T16:51:35.405Z"
+  },
+  {
+    "offerId": "cybex-gb-avi-spin-moon-black",
+    "price": 609.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  },
+  {
+    "offerId": "cybex-gb-cot-s-stormy-blue",
+    "price": 209.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  },
+  {
+    "offerId": "cybex-gb-base-t-black",
+    "price": 184.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  },
+  {
+    "offerId": "cybex-gb-cloud-t-sepia-black",
+    "price": 184.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  },
+  {
+    "offerId": "cybex-gb-avi-cot-adapter-black",
+    "price": 44.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  },
+  {
+    "offerId": "cybex-gb-avi-car-adapter-black",
+    "price": 44.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  },
+  {
+    "offerId": "cybex-pt-avi-spin-seashell-beige",
+    "price": 649.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  },
+  {
+    "offerId": "cybex-pt-cloud-t-mirage-grey",
+    "price": 249.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  },
+  {
+    "offerId": "cybex-pt-avi-cot-adapter-black",
+    "price": 49.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  },
+  {
+    "offerId": "cybex-pt-base-t-black",
+    "price": 219.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  },
+  {
+    "offerId": "cybex-pt-avi-car-adapter-black",
+    "price": 49.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-01T17:00:36.944Z"
+  }
+]

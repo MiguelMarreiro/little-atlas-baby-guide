@@ -1,0 +1,13 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import {fetchText,robotsAllowed} from './update.mjs';
+const root=new URL('../data/',import.meta.url);
+const sources=JSON.parse(await readFile(new URL('sources.json',root),'utf8'));
+const status=JSON.parse(await readFile(new URL('status.json',root),'utf8'));
+const checks=status.sourceChecks||[];
+const now=new Date();
+const delays={daily:86400000,weekly:7*86400000,monthly:30*86400000};
+const targets=sources.filter(s=>s.category!=='price'&&s.category!=='currency'&&s.category!=='promotions').filter(s=>{const previous=checks.find(c=>c.id===s.id);return !previous?.checkedAt||now-new Date(previous.checkedAt)>=(delays[s.cadence]||delays.monthly);}).slice(0,20);
+let next=0;
+await Promise.all(Array.from({length:2},async()=>{while(next<targets.length){const source=targets[next++],previous=checks.find(c=>c.id===source.id);const result={...previous,id:source.id,name:source.name,lastAttemptAt:now.toISOString()};try{const target=source.feedUrl||source.url;const robots=await fetchText(new URL('/robots.txt',target));if(!robotsAllowed(robots,target))throw new Error('Source robots rules prevent automatic checks');const html=await fetchText(target);const normalized=html.replace(/<script\b[\s\S]*?<\/script>/gi,'').replace(/<style\b[\s\S]*?<\/style>/gi,'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();if(normalized.length<80)throw new Error('Insufficient readable content; manual review required');const hash=createHash('sha256').update(normalized).digest('hex');result.checkedAt=now.toISOString();result.state=previous?.hash&&previous.hash!==hash?'changed':previous?.state==='changed'?'changed':'reachable';result.hash=hash;result.message=source.category==='safety'?'Source reachable. Check exact product and affected batch manually; this is not a full recall clearance.':result.state==='changed'?'Page content changed. Editorial review required before updating any published claim.':'Page reachable. Accessibility check only; existing evidence has not been re-reviewed.';result.error=null;}catch(error){result.state='failed';result.error=error.message;result.message='Automatic access failed. Use the source link for a manual check.';}const i=checks.findIndex(c=>c.id===source.id);if(i<0)checks.push(result);else checks[i]=result;}}));
+status.sourceChecks=checks;status.sourceCheckRunAt=now.toISOString();await writeFile(new URL('status.json',root),JSON.stringify(status,null,2)+'\n');console.log(`Source access checks attempted: ${targets.length}. Editorial approval remains manual.`);

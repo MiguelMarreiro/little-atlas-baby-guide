@@ -1,0 +1,354 @@
+[
+  {
+    "id": "avi-spec",
+    "title": "Avi Spin UK specifications",
+    "claim": "UK weight, most-compact fold, pneumatic wheels and suspension support the comparison fields.",
+    "url": "https://www.cybex-online.com/en/gb/p/10103549.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "avi-spin"
+    ],
+    "kind": "specification",
+    "limitations": "Manufacturer page reviewed; this is not a live stock or price confirmation."
+  },
+  {
+    "id": "avi-newborn",
+    "title": "Avi Spin UK newborn and travel-system guidance",
+    "claim": "UK page names Cot S and CYBEX infant seats; adapters are separate.",
+    "url": "https://www.cybex-online.com/en/gb/p/10103549.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "avi-spin",
+      "cot-s",
+      "cloud-t"
+    ],
+    "kind": "compatibility",
+    "limitations": "UK newborn seat guidance differs from US. Cot S Lux is not named."
+  },
+  {
+    "id": "avi-running",
+    "title": "Avi Spin running restrictions",
+    "claim": "Manufacturer FAQ requires at least 9 months, unaided sitting, locked wheel and upright seat; excludes running with carrycot/car seat.",
+    "url": "https://www.cybex-online.com/en/us/p/10103555.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "avi-spin",
+      "cot-s",
+      "cloud-t"
+    ],
+    "kind": "safety",
+    "limitations": "US FAQ supplies explicit restrictions; follow the supplied UK/PT manual and developmental guidance. Never infer newborn running suitability from from-birth walking approval."
+  },
+  {
+    "id": "avi-warranty",
+    "title": "Avi Spin warranty route",
+    "claim": "Original retailer handles warranty claims; complete conditions are in user manual.",
+    "url": "https://www.cybex-online.com/en/gb/p/10103549.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "avi-spin"
+    ],
+    "kind": "specification",
+    "limitations": "Manufacturer page reviewed; this is not a live stock or price confirmation."
+  },
+  {
+    "id": "avi-cot-adapter",
+    "title": "Avi Spin Cot S Adapter official compatibility",
+    "claim": "UK manufacturer page explicitly pairs Avi Spin and Cot S; code 524000795.",
+    "url": "https://www.cybex-online.com/en/gb/p/ac-go-adapter-cot-s-avi-spin.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "avi-spin",
+      "cot-s",
+      "avi-cot-adapter"
+    ],
+    "kind": "compatibility",
+    "limitations": "Manufacturer page reviewed; this is not a live stock or price confirmation."
+  },
+  {
+    "id": "avi-car-adapter",
+    "title": "Avi/Avi Spin car-seat adapter",
+    "claim": "Adapter 520004225 accepts CYBEX infant car seats on Avi/Spin; gentle walking only.",
+    "url": "https://www.cybex-online.com/en/gr/p/ac-go-adapter-cs-avi.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "avi-spin",
+      "avi-car-adapter",
+      "cloud-t"
+    ],
+    "kind": "compatibility",
+    "limitations": "Manufacturer page reviewed; this is not a live stock or price confirmation."
+  },
+  {
+    "id": "cot-adapter-code-open",
+    "title": "Cot adapter regional code discrepancy",
+    "claim": "UK official code is 524000795; some retailer listings use 524000796.",
+    "url": "https://www.pramworld.co.uk/cybex-cot-s-avi-spin-adaptor/",
+    "publisher": "Winstanleys Pramworld",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "unresolved",
+    "productIds": [
+      "avi-cot-adapter"
+    ],
+    "kind": "specification",
+    "limitations": "Retailer corroboration only; confirm code and regional pack with seller. Do not infer different fit from the code alone."
+  },
+  {
+    "id": "cot-s",
+    "title": "Cot S named for Avi Spin",
+    "claim": "Official Canadian Cot S page confirms Avi Spin pairing and walking-only use.",
+    "url": "https://www.cybex-online.com/en/ca/p/10105328.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "cot-s",
+      "avi-spin"
+    ],
+    "kind": "compatibility",
+    "limitations": "Canadian reference; exact UK/PT code and limits must come from supplied local manual. Page lists approximately six months / 20 lb."
+  },
+  {
+    "id": "cot-lux-compatibility",
+    "title": "Cot S Lux manufacturer compatibility list",
+    "claim": "Manufacturer lists Balios S Lux and Talos S Lux, not Avi Spin.",
+    "url": "https://www.cybex-online.com/en/ro/p/st-go-cot-s-lux.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "cot-s-lux",
+      "avi-spin"
+    ],
+    "kind": "compatibility",
+    "limitations": "Absence is not a physical impossibility test. There is insufficient manufacturer evidence to approve Lux for Avi; choose the explicitly listed Cot S."
+  },
+  {
+    "id": "thule-spec",
+    "title": "Urban Glide 3 UK specifications",
+    "claim": "11.9 kg and published 88 × 58 × 31 cm fold; pneumatic rear wheels, suspension and hand brake.",
+    "url": "https://www.thule.com/en-gb/strollers/jogging-strollers/thule-urban-glide-3-_-10101992",
+    "publisher": "Thule",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "urban-glide-3"
+    ],
+    "kind": "specification",
+    "limitations": "Manufacturer page reviewed; this is not a live stock or price confirmation."
+  },
+  {
+    "id": "thule-newborn",
+    "title": "Urban Glide 3 UK newborn route",
+    "claim": "Manufacturer approves birth use with Thule bassinet or infant car-seat adapter, sold separately.",
+    "url": "https://www.thule.com/en-gb/strollers/jogging-strollers/thule-urban-glide-3-_-10101992",
+    "publisher": "Thule",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "urban-glide-3"
+    ],
+    "kind": "compatibility",
+    "limitations": "This does not approve every car seat. Confirm exact adapter and seat list; do not assume Cloud T compatibility."
+  },
+  {
+    "id": "thule-running-open",
+    "title": "Urban Glide 3 regional running instructions require verification",
+    "claim": "Current UK sales page establishes all-terrain use but does not resolve exact regional running restrictions.",
+    "url": "https://www.thule.com/en-gb/thule-support/spare-parts",
+    "publisher": "Thule",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "unresolved",
+    "productIds": [
+      "urban-glide-3"
+    ],
+    "kind": "safety",
+    "limitations": "Exact current UK/PT safety booklet not obtained. Do not equate six-month stroller-seat guidance or a jogging category URL with permission to run. Seek written manufacturer guidance."
+  },
+  {
+    "id": "thule-warranty",
+    "title": "Thule UK guarantee and extended warranty",
+    "claim": "2 years plus 1 year extended warranty for registered strollers, subject to terms.",
+    "url": "https://www.thule.com/en-gb/about-thule/warranty",
+    "publisher": "Thule",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "urban-glide-3"
+    ],
+    "kind": "specification",
+    "limitations": "UK page; manufacturer warranty is separate from statutory rights. Extension excludes normal wear."
+  },
+  {
+    "id": "nipper-spec",
+    "title": "Nipper V6 UK specifications",
+    "claim": "12.25 kg; wheels-on/off folds and 12-inch tyres verified. UK page states two-year manufacturer warranty.",
+    "url": "https://outnabout.com/products/nipper-v6-pushchair?country=GB&currency=GBP",
+    "publisher": "Out’n’About",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "nipper-v6"
+    ],
+    "kind": "specification",
+    "limitations": "Manufacturer page reviewed; this is not a live stock or price confirmation."
+  },
+  {
+    "id": "nipper-running",
+    "title": "Standard V6 jogging versus V6 Plus certification",
+    "claim": "FAQ permits even-terrain jogging from six months; comparison gives standard V6 no running certification and Plus yes.",
+    "url": "https://outnabout.com/products/nipper-v6-pushchair?country=GB&currency=GBP",
+    "publisher": "Out’n’About",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "nipper-v6"
+    ],
+    "kind": "safety",
+    "limitations": "Standard V6 and V6 Plus are distinct. Do not transfer Plus handbrake, 14-inch wheels or certification."
+  },
+  {
+    "id": "nipper-compatibility",
+    "title": "Nipper V6 newborn and adapter route",
+    "claim": "Manufacturer names Single Carrycot and optional approved car-seat adapters.",
+    "url": "https://outnabout.com/products/nipper-v6-pushchair?country=GB&currency=GBP",
+    "publisher": "Out’n’About",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "nipper-v6"
+    ],
+    "kind": "compatibility",
+    "limitations": "No exact Cloud T approval was established in this review."
+  },
+  {
+    "id": "terrain-spec",
+    "title": "Terrain TER_V3 specifications",
+    "claim": "Official reference lists 13.5 kg, two rear-wheel sizes and separate folded heights.",
+    "url": "https://mountainbuggy.com/products/terrain",
+    "publisher": "Mountain Buggy",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "terrain"
+    ],
+    "kind": "specification",
+    "limitations": "Reference is TER_V3. Some UK retailers name V4; verify the exact generation before transferring dimensions or weight. Fold axis order has been normalized to L×W×H."
+  },
+  {
+    "id": "terrain-newborn",
+    "title": "Terrain newborn and travel-system configurations",
+    "claim": "Manufacturer provides full recline plus optional carrycot/cocoon and adapter routes.",
+    "url": "https://mountainbuggy.com/products/terrain",
+    "publisher": "Mountain Buggy",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "terrain"
+    ],
+    "kind": "compatibility",
+    "limitations": "Exact car-seat pairings require the current regional adapter compatibility list; Cloud T fit is not established here."
+  },
+  {
+    "id": "terrain-running-conflict",
+    "title": "Terrain linked manual warning conflicts with marketing",
+    "claim": "Page markets running, while linked manual warns this product is not suitable for running or skating.",
+    "url": "https://cdn.accentuate.io/4495048376417/12047209693281/MBmini_Swift_Urban_Jungle_Terrain_Instructional_Manual__Mountain_Buggy_8479-02_03-08-2020-v1639626716640.pdf",
+    "publisher": "Mountain Buggy",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "conflict",
+    "productIds": [
+      "terrain"
+    ],
+    "kind": "safety",
+    "limitations": "Shared platform manual dated 2020, English warning printed pp29–30. Establish applicable generation/market and obtain updated written guidance before running."
+  },
+  {
+    "id": "terrain-warranty",
+    "title": "Mountain Buggy UK registration warranty",
+    "claim": "UK support states one-year standard warranty; registration within one month adds two years.",
+    "url": "https://mountainbuggysupport-uk.gorgias.help/en-US/register-your-products-2382015",
+    "publisher": "Mountain Buggy Support",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "terrain"
+    ],
+    "kind": "specification",
+    "limitations": "UK manufacturer-owned support page; direct website purchases automatically registered. Regional terms and proof of purchase still matter."
+  },
+  {
+    "id": "cloud-compatibility",
+    "title": "Cloud T i-Size official approved bases",
+    "claim": "Manufacturer lists Base T and Base Z2; 45–87 cm, maximum 13 kg and 4.5 kg seat.",
+    "url": "https://www.cybex-online.com/en/gb/p/cs-pl-cloud-t-i-size.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "cloud-t",
+      "base-t",
+      "base-z2"
+    ],
+    "kind": "compatibility",
+    "limitations": "Vehicle seating-position approval must also be checked. Comfort/Plus fabric options do not change the named seat to another model."
+  },
+  {
+    "id": "base-t-compatibility",
+    "title": "Base T manufacturer compatibility",
+    "claim": "Cloud T i-Size explicitly listed; official Black code 522000069.",
+    "url": "https://www.cybex-online.com/en/gb/p/cs-pl-base-t.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "base-t",
+      "cloud-t"
+    ],
+    "kind": "compatibility",
+    "limitations": "Manufacturer page reviewed; this is not a live stock or price confirmation."
+  },
+  {
+    "id": "base-z2-compatibility",
+    "title": "Base Z2 manufacturer compatibility",
+    "claim": "Cloud T i-Size explicitly listed; official Black code 522002443.",
+    "url": "https://www.cybex-online.com/en/row/p/cs-pl-base-z2.html",
+    "publisher": "CYBEX",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "base-z2",
+      "cloud-t"
+    ],
+    "kind": "compatibility",
+    "limitations": "Compatibility does not imply the same independently tested rating as Base T."
+  },
+  {
+    "id": "adac-cloud-t-base-t",
+    "title": "ADAC published child-seat results",
+    "claim": "ADAC table records Cloud T + Base T, test year 2023, overall 1.7. Cloud T without base is a separate 2.1 result.",
+    "url": "https://assets.adac.de/image/upload/v1763706824/ADAC-eV/KOR/Text/PDF/ADACEV_FOL_6S_SiA_Kindersitztest_0625_rz_Ansicht_s3wlxo.pdf",
+    "publisher": "ADAC",
+    "checkedAt": "2026-11-01T16:38:11Z",
+    "status": "supported",
+    "productIds": [
+      "cloud-t",
+      "base-t",
+      "base-z2"
+    ],
+    "kind": "test",
+    "limitations": "Combination-specific historical test. Do not transfer 1.7 to Base Z2, Cloud G, Cloud Z2 or untested configurations; lower ADAC numbers are better, not a universal safety score."
+  }
+]

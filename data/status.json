@@ -1,0 +1,238 @@
+{
+  "lastRunAt": "2026-11-01T17:00:36.944Z",
+  "lastSuccessAt": "2026-11-01T17:00:36.944Z",
+  "scheduler": "not-activated",
+  "deployment": "local",
+  "schedule": "07:23 UTC daily",
+  "coverage": "Only a successful exact-variant retailer fetch counts as a price check. Recall checks are discovery alerts, not a certification of safety.",
+  "sourceChecks": [
+    {
+      "id": "thule-strollers",
+      "name": "Thule strollers",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "checkedAt": "2026-11-01T16:53:44.334Z",
+      "state": "reachable",
+      "hash": "ed8c432542002be29e23d0b061443faa0acd7f18bb82f44a02c0a5e9ce29eff6",
+      "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+      "error": null
+    },
+    {
+      "id": "outnabout",
+      "name": "Out'n'About pushchairs",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "state": "failed",
+      "error": "HTTP 429",
+      "message": "Automatic access failed. Use the source link for a manual check."
+    },
+    {
+      "id": "mountain-buggy",
+      "name": "Mountain Buggy",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "state": "failed",
+      "error": "HTTP 429",
+      "message": "Automatic access failed. Use the source link for a manual check."
+    },
+    {
+      "id": "cybex-cloud-t",
+      "name": "CYBEX Cloud T i-Size",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "checkedAt": "2026-11-01T16:53:44.334Z",
+      "state": "reachable",
+      "hash": "1a8973bb1ddc066faf13ea4226edbf7085deb804415355b9a1970bd3a35a2de4",
+      "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+      "error": null
+    },
+    {
+      "id": "unece-r129",
+      "name": "UN Regulation No. 129",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "state": "failed",
+      "error": "HTTP 403",
+      "message": "Automatic access failed. Use the source link for a manual check."
+    },
+    {
+      "id": "eu-safety-gate",
+      "name": "EU Safety Gate",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "state": "failed",
+      "error": "Insufficient readable content; manual review required",
+      "message": "Automatic access failed. Use the source link for a manual check."
+    },
+    {
+      "id": "uk-opss-recalls",
+      "name": "UK Product Recalls and Alerts (OPSS)",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "checkedAt": "2026-11-01T16:53:44.334Z",
+      "state": "reachable",
+      "hash": "aa65e8ffa17a1c03ea62dd25858f027420748859b67184b986b4756246640be2",
+      "message": "Source reachable. Check exact product and affected batch manually; this is not a full recall clearance.",
+      "error": null
+    },
+    {
+      "id": "adac-cloud-t-base-t",
+      "name": "ADAC child seat test: Cybex Cloud T + Base T",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "checkedAt": "2026-11-01T16:53:44.334Z",
+      "state": "reachable",
+      "hash": "7e4079a45fc6d211d509dea86f14850e8b42ea1de5aeb557362688492820693c",
+      "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+      "error": null
+    },
+    {
+      "id": "which-pushchair-methodology",
+      "name": "Which? pushchair testing methodology",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "checkedAt": "2026-11-01T16:53:44.334Z",
+      "state": "reachable",
+      "hash": "edb53caf1c9b4e9300e7cec127607c7575e9487903c8a8c88bdacb8f5d04a022",
+      "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+      "error": null
+    },
+    {
+      "id": "nhs-car-seat",
+      "name": "NHS: choosing a baby car seat",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "checkedAt": "2026-11-01T16:53:44.334Z",
+      "state": "reachable",
+      "hash": "ec88b48b73c904054d599cf7b549fd52799e46f7928f8c3d3cf143b1c9cd88af",
+      "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+      "error": null
+    },
+    {
+      "id": "deco-pushchair-guide",
+      "name": "DECO PROteste: choosing a pushchair",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "checkedAt": "2026-11-01T16:53:44.334Z",
+      "state": "reachable",
+      "hash": "d923d29492b06864ab4fe434c0399cf1b099c8e5b2051af11267fed3c59ece4b",
+      "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+      "error": null
+    },
+    {
+      "id": "dgs-child-accident-prevention",
+      "name": "DGS: preventing accidents in children",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "checkedAt": "2026-11-01T16:53:44.334Z",
+      "state": "reachable",
+      "hash": "fab06646ca293df3faea8e2517cf5cb97f76c559a0e392458110a9ab45289dbd",
+      "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+      "error": null
+    },
+    {
+      "id": "apsi-car-seat",
+      "name": "APSI: choosing a suitable car seat",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "checkedAt": "2026-11-01T16:53:44.334Z",
+      "state": "reachable",
+      "hash": "06c3537ef2d7063751f1dd1e697cf73101414360b8a7a767ab11b5a60bee1506",
+      "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+      "error": null
+    },
+    {
+      "id": "egeszsegvonal-child-travel",
+      "name": "Egészségvonal: travelling with children",
+      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "state": "failed",
+      "error": "HTTP 403",
+      "message": "Automatic access failed. Use the source link for a manual check."
+    }
+  ],
+  "runs": [
+    {
+      "at": "2026-11-01T16:51:35.405Z",
+      "attempted": 15,
+      "succeeded": 8,
+      "failed": 7,
+      "errors": [
+        {
+          "offerId": "cybex-gb-cot-s-stormy-blue",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "cybex-gb-avi-cot-adapter-black",
+          "error": "Product title mismatch"
+        },
+        {
+          "offerId": "cybex-pt-avi-car-adapter-black",
+          "error": "Product title mismatch"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-summit-black",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-sycamore-green",
+          "error": "HTTP 429"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-brambleberry-red",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "thule-gb-urban-glide-3-mid-blue",
+          "error": "Exact product missing or ambiguous"
+        }
+      ]
+    },
+    {
+      "at": "2026-11-01T17:00:36.944Z",
+      "attempted": 15,
+      "succeeded": 11,
+      "failed": 4,
+      "errors": [
+        {
+          "offerId": "outnabout-nipper-v6-summit-black",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-brambleberry-red",
+          "error": "HTTP 429"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-sycamore-green",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "thule-gb-urban-glide-3-mid-blue",
+          "error": "Exact product missing or ambiguous"
+        }
+      ]
+    }
+  ],
+  "health": "warning",
+  "counts": {
+    "attempted": 15,
+    "succeeded": 11,
+    "failed": 4,
+    "deferred": 0,
+    "fxSuccess": true
+  },
+  "errors": [
+    {
+      "offerId": "outnabout-nipper-v6-summit-black",
+      "error": "Exact product missing or ambiguous"
+    },
+    {
+      "offerId": "outnabout-nipper-v6-brambleberry-red",
+      "error": "HTTP 429"
+    },
+    {
+      "offerId": "outnabout-nipper-v6-sycamore-green",
+      "error": "Exact product missing or ambiguous"
+    },
+    {
+      "offerId": "thule-gb-urban-glide-3-mid-blue",
+      "error": "Exact product missing or ambiguous"
+    }
+  ],
+  "sourceCheckRunAt": "2026-11-01T16:53:44.334Z",
+  "recalls": {
+    "lastAttemptAt": "2026-11-01T17:02:17.936Z",
+    "checkedAt": "2026-11-01T17:02:17.936Z",
+    "source": "https://www.gov.uk/product-safety-alerts-reports-recalls.atom",
+    "entriesChecked": 50,
+    "matches": [],
+    "state": "checked",
+    "message": "Checked 50 recent UK feed entries. 0 potential keyword matches. This feed is not the full historical database; EU Safety Gate remains a manual check."
+  }
+}

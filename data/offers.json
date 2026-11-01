@@ -1,0 +1,815 @@
+[
+  {
+    "id": "cybex-gb-avi-spin-moon-black",
+    "productId": "avi-spin",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/en/gb/p/10103549.html",
+    "endpoint": "https://www.cybex-online.com/en/gb/p/10103549.html",
+    "parser": "jsonld",
+    "currency": "GBP",
+    "variantId": null,
+    "expectedTitle": "Avi Spin - Moon Black",
+    "expectedVariant": "Moon Black",
+    "expectedSku": "10103549",
+    "gtin": null,
+    "colour": "Moon Black",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 50.01,
+        "shippingVerified": true,
+        "charges": null,
+        "delivery": "2–3 business days; excludes Channel Islands.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/en/gb/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859227+00:00"
+      }
+    },
+    "components": [
+      "avi-spin"
+    ],
+    "compatibility": "verified",
+    "price": 609.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "cybex-gb-cot-s-stormy-blue",
+    "productId": "cot-s",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/en/gb/p/10102581.html",
+    "endpoint": "https://www.cybex-online.com/en/gb/p/10102581.html",
+    "parser": "jsonld",
+    "currency": "GBP",
+    "variantId": null,
+    "expectedTitle": "Cot S - Stormy Blue",
+    "expectedVariant": "Stormy Blue",
+    "expectedSku": "10102581",
+    "gtin": null,
+    "colour": "Stormy Blue",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 50.01,
+        "shippingVerified": true,
+        "charges": null,
+        "delivery": "2–3 business days; excludes Channel Islands.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/en/gb/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859341+00:00"
+      }
+    },
+    "components": [
+      "cot-s"
+    ],
+    "compatibility": "verified",
+    "price": 209.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "cybex-gb-cloud-t-sepia-black",
+    "productId": "cloud-t",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/en/gb/p/cs-pl-cloud-t-i-size.html",
+    "endpoint": "https://www.cybex-online.com/en/gb/p/cs-pl-cloud-t-i-size.html",
+    "parser": "jsonld",
+    "currency": "GBP",
+    "variantId": null,
+    "expectedTitle": "Cloud T i-Size - Sepia Black (Comfort)",
+    "expectedVariant": "Sepia Black (Comfort)",
+    "expectedSku": "10099137",
+    "gtin": null,
+    "colour": "Sepia Black (Comfort)",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 50.01,
+        "shippingVerified": true,
+        "charges": null,
+        "delivery": "2–3 business days; excludes Channel Islands.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/en/gb/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859343+00:00"
+      }
+    },
+    "components": [
+      "cloud-t"
+    ],
+    "compatibility": "verified",
+    "price": 184.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "cybex-gb-base-t-black",
+    "productId": "base-t",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/en/gb/p/cs-pl-base-t.html",
+    "endpoint": "https://www.cybex-online.com/en/gb/p/cs-pl-base-t.html",
+    "parser": "jsonld",
+    "currency": "GBP",
+    "variantId": null,
+    "expectedTitle": "Base T - Black",
+    "expectedVariant": "Black",
+    "expectedSku": "10091076",
+    "gtin": null,
+    "colour": "Black",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 50.01,
+        "shippingVerified": true,
+        "charges": null,
+        "delivery": "2–3 business days; excludes Channel Islands.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/en/gb/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859346+00:00"
+      }
+    },
+    "components": [
+      "base-t"
+    ],
+    "compatibility": "verified",
+    "price": 184.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "cybex-gb-avi-cot-adapter-black",
+    "productId": "avi-cot-adapter",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/en/gb/p/ac-go-adapter-cot-s-avi-spin.html",
+    "endpoint": "https://www.cybex-online.com/en/gb/p/ac-go-adapter-cot-s-avi-spin.html",
+    "parser": "jsonld",
+    "currency": "GBP",
+    "variantId": null,
+    "expectedTitle": "Avi Spin Cot S Adapater - Black",
+    "expectedVariant": "Black",
+    "expectedSku": "10103938",
+    "gtin": null,
+    "colour": "Black",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 50.01,
+        "shippingVerified": true,
+        "charges": null,
+        "delivery": "2–3 business days; excludes Channel Islands.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/en/gb/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859348+00:00"
+      }
+    },
+    "components": [
+      "avi-cot-adapter"
+    ],
+    "compatibility": "verified",
+    "price": 44.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "cybex-gb-avi-car-adapter-black",
+    "productId": "avi-car-adapter",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/en/gb/p/ac-go-adapter-cs-avi.html",
+    "endpoint": "https://www.cybex-online.com/en/gb/p/ac-go-adapter-cs-avi.html",
+    "parser": "jsonld",
+    "currency": "GBP",
+    "variantId": null,
+    "expectedTitle": "Avi/Avi Spin Car Seat Adapter - Black",
+    "expectedVariant": "Black",
+    "expectedSku": "10081412",
+    "gtin": null,
+    "colour": "Black",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 50.01,
+        "shippingVerified": true,
+        "charges": null,
+        "delivery": "2–3 business days; excludes Channel Islands.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/en/gb/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859349+00:00"
+      }
+    },
+    "components": [
+      "avi-car-adapter"
+    ],
+    "compatibility": "verified",
+    "price": 44.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "cybex-pt-avi-spin-seashell-beige",
+    "productId": "avi-spin",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/pt/pt/p/st-go-avi-spin.html",
+    "endpoint": "https://www.cybex-online.com/pt/pt/p/st-go-avi-spin.html",
+    "parser": "jsonld",
+    "currency": "EUR",
+    "variantId": null,
+    "expectedTitle": "Avi Spin — Seashell Beige",
+    "expectedVariant": "Seashell Beige",
+    "expectedSku": "10103861",
+    "gtin": null,
+    "colour": "Seashell Beige",
+    "condition": "new",
+    "destinations": {
+      "PT": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 60.01,
+        "shippingVerified": true,
+        "charges": 0,
+        "delivery": "4–5 business days, mainland Portugal only. Madeira/Azores require a separate €15 shipping quote.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/pt/pt/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859351+00:00"
+      }
+    },
+    "components": [
+      "avi-spin"
+    ],
+    "compatibility": "verified",
+    "price": 649.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "cybex-pt-cloud-t-mirage-grey",
+    "productId": "cloud-t",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/pt/pt/p/cs-pl-cloud-t-i-size.html",
+    "endpoint": "https://www.cybex-online.com/pt/pt/p/cs-pl-cloud-t-i-size.html",
+    "parser": "jsonld",
+    "currency": "EUR",
+    "variantId": null,
+    "expectedTitle": "Cloud T i-Size - Mirage Grey (Plus)",
+    "expectedVariant": "Mirage Grey (Plus)",
+    "expectedSku": "10099185",
+    "gtin": null,
+    "colour": "Mirage Grey (Plus)",
+    "condition": "new",
+    "destinations": {
+      "PT": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 60.01,
+        "shippingVerified": true,
+        "charges": 0,
+        "delivery": "4–5 business days, mainland Portugal only. Madeira/Azores require a separate €15 shipping quote.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/pt/pt/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859353+00:00"
+      }
+    },
+    "components": [
+      "cloud-t"
+    ],
+    "compatibility": "verified",
+    "price": 249.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "cybex-pt-base-t-black",
+    "productId": "base-t",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/pt/pt/p/cs-pl-base-t.html",
+    "endpoint": "https://www.cybex-online.com/pt/pt/p/cs-pl-base-t.html",
+    "parser": "jsonld",
+    "currency": "EUR",
+    "variantId": null,
+    "expectedTitle": "Base T – Black",
+    "expectedVariant": "Black",
+    "expectedSku": "10091076",
+    "gtin": null,
+    "colour": "Black",
+    "condition": "new",
+    "destinations": {
+      "PT": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 60.01,
+        "shippingVerified": true,
+        "charges": 0,
+        "delivery": "4–5 business days, mainland Portugal only. Madeira/Azores require a separate €15 shipping quote.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/pt/pt/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859355+00:00"
+      }
+    },
+    "components": [
+      "base-t"
+    ],
+    "compatibility": "verified",
+    "price": 219.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "cybex-pt-avi-cot-adapter-black",
+    "productId": "avi-cot-adapter",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/pt/pt/p/ac-go-adapter-cot-s-avi-spin.html",
+    "endpoint": "https://www.cybex-online.com/pt/pt/p/ac-go-adapter-cot-s-avi-spin.html",
+    "parser": "jsonld",
+    "currency": "EUR",
+    "variantId": null,
+    "expectedTitle": "Cot S Adapter Avi Spin — Preto",
+    "expectedVariant": "Black",
+    "expectedSku": "10103938",
+    "gtin": null,
+    "colour": "Black",
+    "condition": "new",
+    "destinations": {
+      "PT": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 60.01,
+        "shippingVerified": true,
+        "charges": 0,
+        "delivery": "4–5 business days, mainland Portugal only. Madeira/Azores require a separate €15 shipping quote.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/pt/pt/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859357+00:00"
+      }
+    },
+    "components": [
+      "avi-cot-adapter"
+    ],
+    "compatibility": "verified",
+    "price": 49.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "cybex-pt-avi-car-adapter-black",
+    "productId": "avi-car-adapter",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/pt/pt/p/ac-go-adapter-cs-avi.html",
+    "endpoint": "https://www.cybex-online.com/pt/pt/p/ac-go-adapter-cs-avi.html",
+    "parser": "jsonld",
+    "currency": "EUR",
+    "variantId": null,
+    "expectedTitle": "Adaptador para cadeira auto Avi/Avi Spin — Preto",
+    "expectedVariant": "Black",
+    "expectedSku": "10081412",
+    "gtin": null,
+    "colour": "Black",
+    "condition": "new",
+    "destinations": {
+      "PT": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 60.01,
+        "shippingVerified": true,
+        "charges": 0,
+        "delivery": "4–5 business days, mainland Portugal only. Madeira/Azores require a separate €15 shipping quote.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/pt/pt/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859363+00:00"
+      }
+    },
+    "components": [
+      "avi-car-adapter"
+    ],
+    "compatibility": "verified",
+    "price": 49.95,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T17:00:36.944Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "automatic",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": null
+  },
+  {
+    "id": "outnabout-nipper-v6-summit-black",
+    "productId": "nipper-v6",
+    "retailer": "Out'n'About Official Shop",
+    "seller": "Out'n'About Official Shop",
+    "url": "https://outnabout.com/products/nipper-v6-pushchair?country=GB&currency=GBP",
+    "endpoint": "https://outnabout.com/products/nipper-v6-pushchair.js",
+    "parser": "shopify",
+    "currency": "GBP",
+    "variantId": "55650755936634",
+    "expectedTitle": "Nipper V6 Pushchair",
+    "expectedVariant": "Summit Black / Nipper V6",
+    "expectedSku": "onaNIP-01SBv6",
+    "gtin": "5060167547645",
+    "colour": "Summit Black",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": 0,
+        "freeShippingThreshold": null,
+        "shippingVerified": true,
+        "charges": 0,
+        "delivery": "Ships in 1–3 working days unless otherwise stated.",
+        "returns": "Easy 60-day free trial; check terms.",
+        "termsUrl": "https://outnabout.com/pages/60-day-trial-form"
+      }
+    },
+    "components": [
+      "nipper-v6"
+    ],
+    "compatibility": "verified",
+    "price": 525,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T16:50:15Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "candidate",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": "Exact product missing or ambiguous"
+  },
+  {
+    "id": "outnabout-nipper-v6-sycamore-green",
+    "productId": "nipper-v6",
+    "retailer": "Out'n'About Official Shop",
+    "seller": "Out'n'About Official Shop",
+    "url": "https://outnabout.com/products/nipper-v6-pushchair?country=GB&currency=GBP",
+    "endpoint": "https://outnabout.com/products/nipper-v6-pushchair.js",
+    "parser": "shopify",
+    "currency": "GBP",
+    "variantId": "55650755969402",
+    "expectedTitle": "Nipper V6 Pushchair",
+    "expectedVariant": "Sycamore Green / Nipper V6",
+    "expectedSku": "onaNIP-01GRNv6",
+    "gtin": "5060167547652",
+    "colour": "Sycamore Green",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": 0,
+        "freeShippingThreshold": null,
+        "shippingVerified": true,
+        "charges": 0,
+        "delivery": "Ships in 1–3 working days unless otherwise stated.",
+        "returns": "Easy 60-day free trial; check terms.",
+        "termsUrl": "https://outnabout.com/pages/60-day-trial-form"
+      }
+    },
+    "components": [
+      "nipper-v6"
+    ],
+    "compatibility": "verified",
+    "price": 525,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T16:50:15Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "candidate",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": "Exact product missing or ambiguous"
+  },
+  {
+    "id": "outnabout-nipper-v6-brambleberry-red",
+    "productId": "nipper-v6",
+    "retailer": "Out'n'About Official Shop",
+    "seller": "Out'n'About Official Shop",
+    "url": "https://outnabout.com/products/nipper-v6-pushchair?country=GB&currency=GBP",
+    "endpoint": "https://outnabout.com/products/nipper-v6-pushchair.js",
+    "parser": "shopify",
+    "currency": "GBP",
+    "variantId": "55650756034938",
+    "expectedTitle": "Nipper V6 Pushchair",
+    "expectedVariant": "Brambleberry Red / Nipper V6",
+    "expectedSku": "onaNIP-01BDYv6",
+    "gtin": "5060167547669",
+    "colour": "Brambleberry Red",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": 0,
+        "freeShippingThreshold": null,
+        "shippingVerified": true,
+        "charges": 0,
+        "delivery": "Ships in 1–3 working days unless otherwise stated.",
+        "returns": "Easy 60-day free trial; check terms.",
+        "termsUrl": "https://outnabout.com/pages/60-day-trial-form"
+      }
+    },
+    "components": [
+      "nipper-v6"
+    ],
+    "compatibility": "verified",
+    "price": 525,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T16:50:15Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "candidate",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": "HTTP 429"
+  },
+  {
+    "id": "thule-gb-urban-glide-3-mid-blue",
+    "productId": "urban-glide-3",
+    "retailer": "Thule Official Online Shop",
+    "seller": "Thule Official Online Shop",
+    "url": "https://www.thule.com/en-gb/strollers/jogging-strollers/thule-urban-glide-3-_-10101992",
+    "endpoint": "https://www.thule.com/en-gb/strollers/jogging-strollers/thule-urban-glide-3-_-10101992",
+    "parser": "jsonld",
+    "currency": "GBP",
+    "variantId": null,
+    "expectedTitle": "Thule Urban Glide 3",
+    "expectedVariant": "Mid blue on black",
+    "expectedSku": "10101992",
+    "gtin": "197074659941",
+    "colour": "Mid blue on black",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": null,
+        "freeShippingThreshold": null,
+        "shippingVerified": false,
+        "charges": null,
+        "delivery": "Not verified",
+        "returns": "Not verified",
+        "termsUrl": "https://www.thule.com/en-gb/strollers/jogging-strollers/thule-urban-glide-3-_-10101992"
+      }
+    },
+    "components": [
+      "urban-glide-3"
+    ],
+    "compatibility": "verified",
+    "price": 769.99,
+    "stock": "in_stock",
+    "checkedAt": "2026-11-01T16:44:32Z",
+    "verification": "retailer",
+    "promotion": null,
+    "monitoring": "candidate",
+    "lastAttemptAt": "2026-11-01T17:00:36.944Z",
+    "lastError": "Exact product missing or ambiguous"
+  },
+  {
+    "id": "mountainbuggy-uk-terrain-heritage-quartz",
+    "productId": "terrain",
+    "retailer": "Mountain Buggy UK Official Shop",
+    "seller": "Mountain Buggy UK Official Shop",
+    "url": "https://uk.mountainbuggy.com/shop/terrain-buggy-18113",
+    "endpoint": "https://uk.mountainbuggy.com/shop/terrain-buggy-18113",
+    "parser": "manual",
+    "currency": "GBP",
+    "variantId": null,
+    "expectedTitle": "terrain™ buggy",
+    "expectedVariant": "Heritage V4, Quartz",
+    "expectedSku": null,
+    "gtin": null,
+    "colour": "Quartz",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": null,
+        "freeShippingThreshold": null,
+        "shippingVerified": false,
+        "charges": null,
+        "delivery": "Not verified",
+        "returns": "Not verified",
+        "termsUrl": "https://uk.mountainbuggy.com/shop/terrain-buggy-18113"
+      }
+    },
+    "components": [
+      "terrain"
+    ],
+    "compatibility": "unresolved",
+    "price": null,
+    "stock": "unknown",
+    "checkedAt": null,
+    "verification": "discovery",
+    "promotion": null,
+    "monitoring": "manual",
+    "lastAttemptAt": "2026-11-01T16:47:30Z",
+    "lastError": "Official listing is a current V4 generation; comparison specification is TER_V3, so generation compatibility is unresolved.",
+    "variantDescription": "Current UK offer is V4; reference comparison is TER_V3. Not treated as the same product."
+  },
+  {
+    "id": "nbs-cloud-t-sage-green-plus",
+    "productId": "cloud-t",
+    "retailer": "Natural Baby Shower",
+    "seller": "Natural Baby Shower",
+    "url": "https://www.naturalbabyshower.co.uk/products/cybex-cloud-t-i-size-plus-car-seat-sage-green?variant=56319234900347",
+    "endpoint": null,
+    "parser": "manual",
+    "currency": "GBP",
+    "variantId": "56319234900347",
+    "expectedTitle": "CYBEX Cloud T i-Size Plus Car Seat - Sage Green",
+    "expectedVariant": "Sage Green (Plus fabric)",
+    "expectedSku": null,
+    "gtin": null,
+    "colour": "Sage Green",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": null,
+        "freeShippingThreshold": null,
+        "shippingVerified": false,
+        "charges": null,
+        "delivery": "Not verified",
+        "returns": "Not verified",
+        "termsUrl": "https://www.naturalbabyshower.co.uk/products/cybex-cloud-t-i-size-plus-car-seat-sage-green?variant=56319234900347"
+      }
+    },
+    "components": [
+      "cloud-t"
+    ],
+    "compatibility": "verified",
+    "price": null,
+    "stock": "unknown",
+    "checkedAt": null,
+    "verification": "discovery",
+    "promotion": null,
+    "monitoring": "manual",
+    "lastAttemptAt": null,
+    "lastError": "Retailer Shopify product endpoint returned HTTP 429; price, stock and shipping not verified."
+  },
+  {
+    "id": "nbs-cot-s-lux-moss-green",
+    "productId": "cot-s-lux",
+    "retailer": "Natural Baby Shower",
+    "seller": "Natural Baby Shower",
+    "url": "https://www.naturalbabyshower.co.uk/products/cybex-cot-s-lux-moss-green?variant=55125874442619",
+    "endpoint": null,
+    "parser": "manual",
+    "currency": "GBP",
+    "variantId": "55125874442619",
+    "expectedTitle": "CYBEX Cot S Lux - Moss Green",
+    "expectedVariant": "Moss Green",
+    "expectedSku": null,
+    "gtin": null,
+    "colour": "Moss Green",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": null,
+        "freeShippingThreshold": null,
+        "shippingVerified": false,
+        "charges": null,
+        "delivery": "Not verified",
+        "returns": "Not verified",
+        "termsUrl": "https://www.naturalbabyshower.co.uk/products/cybex-cot-s-lux-moss-green?variant=55125874442619"
+      }
+    },
+    "components": [
+      "cot-s-lux"
+    ],
+    "compatibility": "unresolved",
+    "price": null,
+    "stock": "unknown",
+    "checkedAt": null,
+    "verification": "discovery",
+    "promotion": null,
+    "monitoring": "manual",
+    "lastAttemptAt": null,
+    "lastError": "Retailer Shopify product endpoint returned HTTP 429; price, stock and shipping not verified."
+  },
+  {
+    "id": "nbs-avi-spin-moss-green",
+    "productId": "avi-spin",
+    "retailer": "Natural Baby Shower",
+    "seller": "Natural Baby Shower",
+    "url": "https://www.naturalbabyshower.co.uk/products/cybex-avi-spin-stroller-moss-green?variant=55541759082875",
+    "endpoint": null,
+    "parser": "manual",
+    "currency": "GBP",
+    "variantId": "55541759082875",
+    "expectedTitle": "CYBEX Avi Spin Stroller - Moss Green",
+    "expectedVariant": "Moss Green",
+    "expectedSku": null,
+    "gtin": null,
+    "colour": "Moss Green",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": null,
+        "freeShippingThreshold": null,
+        "shippingVerified": false,
+        "charges": null,
+        "delivery": "Not verified",
+        "returns": "Not verified",
+        "termsUrl": "https://www.naturalbabyshower.co.uk/products/cybex-avi-spin-stroller-moss-green?variant=55541759082875"
+      }
+    },
+    "components": [
+      "avi-spin"
+    ],
+    "compatibility": "verified",
+    "price": null,
+    "stock": "unknown",
+    "checkedAt": null,
+    "verification": "discovery",
+    "promotion": null,
+    "monitoring": "manual",
+    "lastAttemptAt": null,
+    "lastError": "Retailer Shopify product endpoint returned HTTP 429; price, stock and shipping not verified."
+  },
+  {
+    "id": "cybex-gb-base-z2-black",
+    "productId": "base-z2",
+    "retailer": "CYBEX Official Online Shop",
+    "seller": "CYBEX Official Online Shop",
+    "url": "https://www.cybex-online.com/en/gb/p/cs-pl-base-z2.html",
+    "endpoint": null,
+    "parser": "manual",
+    "currency": "GBP",
+    "variantId": null,
+    "expectedTitle": "Base Z2",
+    "expectedVariant": "Black",
+    "expectedSku": "522002443",
+    "gtin": null,
+    "colour": "Black",
+    "condition": "new",
+    "destinations": {
+      "GB": {
+        "shipping": 9.9,
+        "freeShippingThreshold": 50.01,
+        "shippingVerified": true,
+        "charges": null,
+        "delivery": "2–3 business days; excludes Channel Islands.",
+        "returns": "Return shipping free; cancellation and condition requirements apply.",
+        "termsUrl": "https://www.cybex-online.com/en/gb/service/delivery.html",
+        "termsCheckedAt": "2026-11-01T16:51:27.859369+00:00"
+      }
+    },
+    "components": [
+      "base-z2"
+    ],
+    "compatibility": "verified",
+    "price": null,
+    "stock": "unknown",
+    "checkedAt": null,
+    "verification": "discovery",
+    "promotion": null,
+    "monitoring": "manual",
+    "lastAttemptAt": null,
+    "lastError": "Direct product page accessible but no retailer offer price or availability was present in returned product data."
+  }
+]
