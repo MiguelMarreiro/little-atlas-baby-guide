@@ -1,7 +1,7 @@
 {
-  "lastRunAt": "2026-11-01T17:00:36.944Z",
-  "lastSuccessAt": "2026-11-01T17:00:36.944Z",
-  "scheduler": "not-activated",
+  "lastRunAt": "2026-11-01T17:08:40.731Z",
+  "lastSuccessAt": "2026-11-01T17:08:40.731Z",
+  "scheduler": "active",
   "deployment": "local",
   "schedule": "07:23 UTC daily",
   "coverage": "Only a successful exact-variant retailer fetch counts as a price check. Recall checks are discovery alerts, not a certification of safety.",
@@ -19,18 +19,20 @@
     {
       "id": "outnabout",
       "name": "Out'n'About pushchairs",
-      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "lastAttemptAt": "2026-11-01T17:08:49.731Z",
       "state": "failed",
-      "error": "HTTP 429",
+      "error": "fetch failed",
       "message": "Automatic access failed. Use the source link for a manual check."
     },
     {
       "id": "mountain-buggy",
       "name": "Mountain Buggy",
-      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
-      "state": "failed",
-      "error": "HTTP 429",
-      "message": "Automatic access failed. Use the source link for a manual check."
+      "lastAttemptAt": "2026-11-01T17:08:49.731Z",
+      "state": "reachable",
+      "error": null,
+      "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+      "checkedAt": "2026-11-01T17:08:49.731Z",
+      "hash": "873c178986851d2c3fc65e654a65ba1eb27b8542fb5392818d79f2bee8b1bc89"
     },
     {
       "id": "cybex-cloud-t",
@@ -45,7 +47,7 @@
     {
       "id": "unece-r129",
       "name": "UN Regulation No. 129",
-      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "lastAttemptAt": "2026-11-01T17:08:49.731Z",
       "state": "failed",
       "error": "HTTP 403",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -53,7 +55,7 @@
     {
       "id": "eu-safety-gate",
       "name": "EU Safety Gate",
-      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "lastAttemptAt": "2026-11-01T17:08:49.731Z",
       "state": "failed",
       "error": "Insufficient readable content; manual review required",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -131,7 +133,7 @@
     {
       "id": "egeszsegvonal-child-travel",
       "name": "Egészségvonal: travelling with children",
-      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
+      "lastAttemptAt": "2026-11-01T17:08:49.731Z",
       "state": "failed",
       "error": "HTTP 403",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -197,6 +199,30 @@
           "error": "Exact product missing or ambiguous"
         }
       ]
+    },
+    {
+      "at": "2026-11-01T17:08:40.731Z",
+      "attempted": 15,
+      "succeeded": 11,
+      "failed": 4,
+      "errors": [
+        {
+          "offerId": "outnabout-nipper-v6-summit-black",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-sycamore-green",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-brambleberry-red",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "thule-gb-urban-glide-3-mid-blue",
+          "error": "Exact product missing or ambiguous"
+        }
+      ]
     }
   ],
   "health": "warning",
@@ -213,11 +239,11 @@
       "error": "Exact product missing or ambiguous"
     },
     {
-      "offerId": "outnabout-nipper-v6-brambleberry-red",
-      "error": "HTTP 429"
+      "offerId": "outnabout-nipper-v6-sycamore-green",
+      "error": "Exact product missing or ambiguous"
     },
     {
-      "offerId": "outnabout-nipper-v6-sycamore-green",
+      "offerId": "outnabout-nipper-v6-brambleberry-red",
       "error": "Exact product missing or ambiguous"
     },
     {
@@ -225,14 +251,15 @@
       "error": "Exact product missing or ambiguous"
     }
   ],
-  "sourceCheckRunAt": "2026-11-01T16:53:44.334Z",
+  "sourceCheckRunAt": "2026-11-01T17:08:49.731Z",
   "recalls": {
-    "lastAttemptAt": "2026-11-01T17:02:17.936Z",
-    "checkedAt": "2026-11-01T17:02:17.936Z",
+    "lastAttemptAt": "2026-11-01T17:08:52.805Z",
+    "checkedAt": "2026-11-01T17:08:52.805Z",
     "source": "https://www.gov.uk/product-safety-alerts-reports-recalls.atom",
     "entriesChecked": 50,
     "matches": [],
     "state": "checked",
     "message": "Checked 50 recent UK feed entries. 0 potential keyword matches. This feed is not the full historical database; EU Safety Gate remains a manual check."
-  }
+  },
+  "workflowRunId": "41329927481"
 }
