@@ -2,6 +2,8 @@
 
 An evidence-led baby buying field guide for delivery to mainland Portugal and the UK. It compares four terrain-focused pushchairs, explains compatibility, indexes information sources and maintains an exact-variant price watchlist. The public dataset contains no family names, messages, addresses or baby details.
 
+[Open the live guide](https://little-atlas-baby-guide.pages.dev/) · [Download the standalone HTML](https://little-atlas-baby-guide.pages.dev/index.html)
+
 ## Use the guide
 
 Open `dist/index.html` in a browser. It is self-contained: styles, interaction code and the research snapshot are embedded. The optional `dist/snapshot.json` is the same research in a reusable format. The HTML works on Cloudflare Pages or Netlify without a framework, server or database.

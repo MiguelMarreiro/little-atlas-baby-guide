@@ -9,7 +9,7 @@ Use a public GitHub repository containing only this project. Standard Linux GitH
 
    ```sh
    wrangler login
-   wrangler pages project create little-atlas-baby-guide --production-branch main
+   wrangler pages project create little-atlas-baby-guide --production-branch main --force
    wrangler pages deploy dist --project-name little-atlas-baby-guide --branch main
    ```
 
