@@ -26,7 +26,7 @@ jobs:
           node --input-type=module <<'JS'
           import fs from 'node:fs';
           const path='data/status.json';const s=JSON.parse(fs.readFileSync(path));
-          s.scheduler='active';s.schedule='07:23 UTC daily';s.workflowRunUrl=`https://github.com/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`;
+          s.scheduler='active';s.schedule='07:23 UTC daily';s.workflowRunId=process.env.GITHUB_RUN_ID;
           fs.writeFileSync(path,JSON.stringify(s,null,2)+'\n');
           JS
       - run: npm run validate && npm run build
