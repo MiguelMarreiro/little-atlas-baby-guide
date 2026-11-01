@@ -2158,7 +2158,7 @@
     "lastRunAt": "2026-11-01T17:08:40.731Z",
     "lastSuccessAt": "2026-11-01T17:08:40.731Z",
     "scheduler": "active",
-    "deployment": "local",
+    "deployment": "manual",
     "schedule": "07:23 UTC daily",
     "coverage": "Only a successful exact-variant retailer fetch counts as a price check. Recall checks are discovery alerts, not a certification of safety.",
     "sourceChecks": [
@@ -2493,5 +2493,5 @@
       "note": "Carrycot plus and exact car-seat adapter route require complete itemized pricing. Running instructions have a recorded conflict."
     }
   ],
-  "generatedAt": "2026-11-01T22:15:46.833Z"
+  "generatedAt": "2026-11-01T22:16:19.776Z"
 }

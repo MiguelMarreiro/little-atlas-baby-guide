@@ -1,6 +1,10 @@
 # Publish and maintain Little Atlas
 
-## Default: Cloudflare Pages + GitHub Actions
+## Current mode: daily checks, manual publication
+
+GitHub runs the checks and stores validated snapshots daily. The public Cloudflare site is a manually published edition. No unattended publishing token has been created and the publishing variable is unset. To publish the latest edition, update your local main branch with `git pull --ff-only`, then run `wrangler pages deploy dist --project-name little-atlas-baby-guide --branch main` while signed in. The HTML is already built by the updater.
+
+## Optional: connect automatic publication later
 
 Use a public GitHub repository containing only this project. Standard Linux GitHub runners for public repositories are free under the current terms. Cloudflare Pages provides a free `pages.dev` address; no paid domain is required.
 

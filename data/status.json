@@ -2,7 +2,7 @@
   "lastRunAt": "2026-11-01T17:08:40.731Z",
   "lastSuccessAt": "2026-11-01T17:08:40.731Z",
   "scheduler": "active",
-  "deployment": "local",
+  "deployment": "manual",
   "schedule": "07:23 UTC daily",
   "coverage": "Only a successful exact-variant retailer fetch counts as a price check. Recall checks are discovery alerts, not a certification of safety.",
   "sourceChecks": [
