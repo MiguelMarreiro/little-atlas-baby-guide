@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-11-01T17:08:40.731Z",
-  "lastSuccessAt": "2026-11-01T17:08:40.731Z",
+  "lastRunAt": "2026-11-02T17:14:31.767Z",
+  "lastSuccessAt": "2026-11-02T17:14:31.767Z",
   "scheduler": "active",
   "deployment": "manual",
   "schedule": "07:23 UTC daily",
@@ -19,7 +19,7 @@
     {
       "id": "outnabout",
       "name": "Out'n'About pushchairs",
-      "lastAttemptAt": "2026-11-01T17:08:49.731Z",
+      "lastAttemptAt": "2026-11-02T17:14:39.833Z",
       "state": "failed",
       "error": "fetch failed",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -47,7 +47,7 @@
     {
       "id": "unece-r129",
       "name": "UN Regulation No. 129",
-      "lastAttemptAt": "2026-11-01T17:08:49.731Z",
+      "lastAttemptAt": "2026-11-02T17:14:39.833Z",
       "state": "failed",
       "error": "HTTP 403",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -55,7 +55,7 @@
     {
       "id": "eu-safety-gate",
       "name": "EU Safety Gate",
-      "lastAttemptAt": "2026-11-01T17:08:49.731Z",
+      "lastAttemptAt": "2026-11-02T17:14:39.833Z",
       "state": "failed",
       "error": "Insufficient readable content; manual review required",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -63,10 +63,10 @@
     {
       "id": "uk-opss-recalls",
       "name": "UK Product Recalls and Alerts (OPSS)",
-      "lastAttemptAt": "2026-11-01T16:53:44.334Z",
-      "checkedAt": "2026-11-01T16:53:44.334Z",
-      "state": "reachable",
-      "hash": "aa65e8ffa17a1c03ea62dd25858f027420748859b67184b986b4756246640be2",
+      "lastAttemptAt": "2026-11-02T17:14:39.833Z",
+      "checkedAt": "2026-11-02T17:14:39.833Z",
+      "state": "changed",
+      "hash": "59a6fbeb75fe00d09cd6eeacb49124827a0fc5a21873d007707231aef5291fda",
       "message": "Source reachable. Check exact product and affected batch manually; this is not a full recall clearance.",
       "error": null
     },
@@ -133,7 +133,7 @@
     {
       "id": "egeszsegvonal-child-travel",
       "name": "Egészségvonal: travelling with children",
-      "lastAttemptAt": "2026-11-01T17:08:49.731Z",
+      "lastAttemptAt": "2026-11-02T17:14:39.833Z",
       "state": "failed",
       "error": "HTTP 403",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -223,6 +223,30 @@
           "error": "Exact product missing or ambiguous"
         }
       ]
+    },
+    {
+      "at": "2026-11-02T17:14:31.767Z",
+      "attempted": 15,
+      "succeeded": 11,
+      "failed": 4,
+      "errors": [
+        {
+          "offerId": "outnabout-nipper-v6-summit-black",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-brambleberry-red",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-sycamore-green",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "thule-gb-urban-glide-3-mid-blue",
+          "error": "Exact product missing or ambiguous"
+        }
+      ]
     }
   ],
   "health": "warning",
@@ -239,11 +263,11 @@
       "error": "Exact product missing or ambiguous"
     },
     {
-      "offerId": "outnabout-nipper-v6-sycamore-green",
+      "offerId": "outnabout-nipper-v6-brambleberry-red",
       "error": "Exact product missing or ambiguous"
     },
     {
-      "offerId": "outnabout-nipper-v6-brambleberry-red",
+      "offerId": "outnabout-nipper-v6-sycamore-green",
       "error": "Exact product missing or ambiguous"
     },
     {
@@ -251,15 +275,17 @@
       "error": "Exact product missing or ambiguous"
     }
   ],
-  "sourceCheckRunAt": "2026-11-01T17:08:49.731Z",
+  "sourceCheckRunAt": "2026-11-02T17:14:39.833Z",
   "recalls": {
-    "lastAttemptAt": "2026-11-01T17:08:52.805Z",
-    "checkedAt": "2026-11-01T17:08:52.805Z",
+    "lastAttemptAt": "2026-11-02T17:14:42.398Z",
+    "checkedAt": "2026-11-02T17:14:42.398Z",
     "source": "https://www.gov.uk/product-safety-alerts-reports-recalls.atom",
     "entriesChecked": 50,
     "matches": [],
     "state": "checked",
     "message": "Checked 50 recent UK feed entries. 0 potential keyword matches. This feed is not the full historical database; EU Safety Gate remains a manual check."
   },
-  "workflowRunId": "41329927481"
+  "workflowRunId": "41489249734",
+  "trigger": "schedule",
+  "lastScheduledCheckAt": "2026-11-02T17:14:31.767Z"
 }
