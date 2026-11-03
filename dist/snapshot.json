@@ -459,6 +459,169 @@
       "limitations": "Reference rates are informational and not transaction rates; ECB may suspend individual currency rates.",
       "cadence": "weekly",
       "checkedAt": "2026-11-01T16:34:32Z"
+    },
+    {
+      "id": "pricerunner",
+      "name": "PriceRunner UK",
+      "url": "https://www.pricerunner.com/",
+      "publisher": "PriceRunner UK",
+      "countries": [
+        "GB"
+      ],
+      "languages": [
+        "en"
+      ],
+      "category": "price",
+      "purpose": "UK product comparison; exact AVI Spin coverage not established.",
+      "authority": "Commercial retailer or price discovery service.",
+      "accessMethod": "Public website; access and exact product availability must be verified.",
+      "automation": "manual",
+      "feedUrl": null,
+      "paywall": false,
+      "commercialInterests": "Commercial sales, advertising or referral interests.",
+      "limitations": "Robot verification blocked automated research; manually check variants and retailers.",
+      "cadence": "monthly",
+      "checkedAt": "2026-11-03T12:22:05+00:00"
+    },
+    {
+      "id": "pricespy",
+      "name": "PriceSpy UK",
+      "url": "https://pricespy.co.uk/",
+      "publisher": "PriceSpy UK",
+      "countries": [
+        "GB"
+      ],
+      "languages": [
+        "en"
+      ],
+      "category": "price",
+      "purpose": "UK retailer discovery and product price history.",
+      "authority": "Commercial retailer or price discovery service.",
+      "accessMethod": "Public website; access and exact product availability must be verified.",
+      "automation": "manual",
+      "feedUrl": null,
+      "paywall": false,
+      "commercialInterests": "Commercial sales, advertising or referral interests.",
+      "limitations": "AVI Spin coverage unverified. UK account features changed; verify current alert availability.",
+      "cadence": "monthly",
+      "checkedAt": "2026-11-03T12:22:05+00:00"
+    },
+    {
+      "id": "trolley",
+      "name": "Trolley.co.uk",
+      "url": "https://www.trolley.co.uk/",
+      "publisher": "Trolley.co.uk",
+      "countries": [
+        "GB"
+      ],
+      "languages": [
+        "en"
+      ],
+      "category": "price",
+      "purpose": "UK grocery and household comparison for consumable baby products.",
+      "authority": "Commercial retailer or price discovery service.",
+      "accessMethod": "Public website; access and exact product availability must be verified.",
+      "automation": "manual",
+      "feedUrl": null,
+      "paywall": false,
+      "commercialInterests": "Commercial sales, advertising or referral interests.",
+      "limitations": "Supermarket focus; no evidence of useful AVI Spin stroller coverage.",
+      "cadence": "monthly",
+      "checkedAt": "2026-11-03T12:22:05+00:00"
+    },
+    {
+      "id": "camelcamelcamel",
+      "name": "camelcamelcamel UK",
+      "url": "https://uk.camelcamelcamel.com/",
+      "publisher": "camelcamelcamel UK",
+      "countries": [
+        "GB"
+      ],
+      "languages": [
+        "en"
+      ],
+      "category": "price",
+      "purpose": "Amazon UK price histories and alerts by exact product and ASIN.",
+      "authority": "Commercial retailer or price discovery service.",
+      "accessMethod": "Public website; access and exact product availability must be verified.",
+      "automation": "manual",
+      "feedUrl": null,
+      "paywall": false,
+      "commercialInterests": "Commercial sales, advertising or referral interests.",
+      "limitations": "Access returned 403; check product and delivery on Amazon. Other Amazon countries require separate local tracking.",
+      "cadence": "monthly",
+      "checkedAt": "2026-11-03T12:22:05+00:00"
+    },
+    {
+      "id": "amazon-uk",
+      "name": "Amazon UK",
+      "url": "https://www.amazon.co.uk/",
+      "publisher": "Amazon UK",
+      "countries": [
+        "GB"
+      ],
+      "languages": [
+        "en"
+      ],
+      "category": "price",
+      "purpose": "Search UK Amazon and marketplace sellers for exact products.",
+      "authority": "Commercial retailer or price discovery service.",
+      "accessMethod": "Public website; access and exact product availability must be verified.",
+      "automation": "manual",
+      "feedUrl": null,
+      "paywall": false,
+      "commercialInterests": "Commercial sales, advertising or referral interests.",
+      "limitations": "Confirm seller, dispatch, stock, variant, delivery and return conditions.",
+      "cadence": "monthly",
+      "checkedAt": "2026-11-03T12:22:05+00:00"
+    },
+    {
+      "id": "amazon-es",
+      "name": "Amazon Spain",
+      "url": "https://www.amazon.es/",
+      "publisher": "Amazon Spain",
+      "countries": [
+        "GB",
+        "PT"
+      ],
+      "languages": [
+        "es"
+      ],
+      "category": "price",
+      "purpose": "Discover Spanish Amazon and marketplace offers for UK or Portugal delivery.",
+      "authority": "Commercial retailer or price discovery service.",
+      "accessMethod": "Public website; access and exact product availability must be verified.",
+      "automation": "manual",
+      "feedUrl": null,
+      "paywall": false,
+      "commercialInterests": "Commercial sales, advertising or referral interests.",
+      "limitations": "Confirm destination eligibility, taxes, shipping, returns and exact ASIN; convert EUR to GBP.",
+      "cadence": "monthly",
+      "checkedAt": "2026-11-03T12:22:05+00:00"
+    },
+    {
+      "id": "amazon-de",
+      "name": "Amazon Germany",
+      "url": "https://www.amazon.de/",
+      "publisher": "Amazon Germany",
+      "countries": [
+        "GB",
+        "PT"
+      ],
+      "languages": [
+        "de"
+      ],
+      "category": "price",
+      "purpose": "Discover German Amazon and marketplace offers for UK or Portugal delivery.",
+      "authority": "Commercial retailer or price discovery service.",
+      "accessMethod": "Public website; access and exact product availability must be verified.",
+      "automation": "manual",
+      "feedUrl": null,
+      "paywall": false,
+      "commercialInterests": "Commercial sales, advertising or referral interests.",
+      "limitations": "Confirm destination eligibility, taxes, shipping, returns and exact ASIN; convert EUR to GBP.",
+      "cadence": "monthly",
+      "checkedAt": "2026-11-03T12:22:05+00:00"
     }
   ],
   "products": [
@@ -2596,5 +2759,5 @@
       "note": "Carrycot plus and exact car-seat adapter route require complete itemized pricing. Running instructions have a recorded conflict."
     }
   ],
-  "generatedAt": "2026-11-02T17:14:42.919Z"
+  "generatedAt": "2026-11-03T12:42:52.517Z"
 }

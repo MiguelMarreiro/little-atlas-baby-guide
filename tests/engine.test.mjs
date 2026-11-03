@@ -36,8 +36,10 @@ test('coverage and quantities are exact; overlapping bundle components invalidat
 });
 test('currency conversion requires actual dated ECB rates and never combines currencies implicitly', () => {
   const fx = {base:'EUR',date:'2026-10-30',rates:{EUR:1,GBP:0.8}};
-  assert.equal(convert(80,'GBP','EUR',fx),100); assert.equal(convert(100,'EUR','GBP',fx),80);
+  assert.equal(convert(80,'GBP','EUR',fx,new Date('2026-10-31T00:00:00Z')),100); assert.equal(convert(100,'EUR','GBP',fx,new Date('2026-10-31T00:00:00Z')),80);
   assert.equal(convert(100,'EUR','GBP',{}),null);
+  assert.equal(convert(100,'EUR','GBP',fx,new Date('2026-11-08T00:00:00Z')),null);
+  assert.equal(convert(100,'GBP','GBP',fx,new Date('2026-11-08T00:00:00Z')),100);
   const items = [base(), base({id:'b',currency:'EUR',components:['base']})];
   assert.equal(basketTotal(items,'GB',now).total,null);
   const result = basketTotal(items,'GB',now,{fx,outputCurrency:'EUR'});

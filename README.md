@@ -4,6 +4,8 @@ An evidence-led baby buying field guide for delivery to mainland Portugal and th
 
 [Open the live guide](https://little-atlas-baby-guide.pages.dev/) · [Download the standalone HTML](https://little-atlas-baby-guide.pages.dev/index.html)
 
+Research decisions and dated findings are recorded in [project research history](research/PROJECT-HISTORY.md), with links to the full studies.
+
 ## Use the guide
 
 Open `dist/index.html` in a browser. It is self-contained: styles, interaction code and the research snapshot are embedded. The optional `dist/snapshot.json` is the same research in a reusable format. The HTML works on Cloudflare Pages or Netlify without a framework, server or database.
