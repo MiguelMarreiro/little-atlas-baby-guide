@@ -621,5 +621,282 @@
     "limitations": "Confirm destination eligibility, taxes, shipping, returns and exact ASIN; convert EUR to GBP.",
     "cadence": "monthly",
     "checkedAt": "2026-11-03T12:22:05+00:00"
+  },
+  {
+    "id": "ebay-uk",
+    "name": "eBay UK",
+    "url": "https://www.ebay.co.uk/",
+    "publisher": "eBay UK",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "New and used listings including specialist retailers and private sellers.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Auction bids, buyer fees, delivery, seller status and listing expiry need individual checking.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "gumtree-uk",
+    "name": "Gumtree UK",
+    "url": "https://www.gumtree.com/",
+    "publisher": "Gumtree UK",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "Local second-hand baby and family goods, often collected in person.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Individual ads can expire; collection location and condition must be confirmed.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "vinted-uk",
+    "name": "Vinted UK",
+    "url": "https://www.vinted.co.uk/",
+    "publisher": "Vinted UK",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "Used children’s items, accessories and selected pushchairs.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Confirm exact part, buyer fees and shipping; search results can change.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "facebook-marketplace",
+    "name": "Facebook Marketplace",
+    "url": "https://www.facebook.com/marketplace/",
+    "publisher": "Facebook Marketplace",
+    "countries": [
+      "GB",
+      "PT"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "Local second-hand goods for a wide range of baby and family needs.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Login and location may be required; private listings and automated access have limits.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "olx-pt",
+    "name": "OLX Portugal",
+    "url": "https://www.olx.pt/",
+    "publisher": "OLX Portugal",
+    "countries": [
+      "PT"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "category": "price",
+    "purpose": "Local Portuguese new and used marketplace listings.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Private sellers, condition, availability and delivery require checking.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "buggy-pitstop",
+    "name": "Buggy Pitstop refurbished prams",
+    "url": "https://refurbishedprams.com/",
+    "publisher": "Buggy Pitstop refurbished prams",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "UK refurbished prams and pushchairs.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Inventory and included parts vary by item; ask about warranty and returns.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "nct-nearly-new",
+    "name": "NCT Nearly New Sales",
+    "url": "https://www.nct.org.uk/support-us/fundraising-activities/buy-or-sell-nct-nearly-new-sale",
+    "publisher": "NCT Nearly New Sales",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "Local UK sales of second-hand baby goods and clothing.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Event locations and dates vary; no matching item was verified.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "babysorted",
+    "name": "BabySorted",
+    "url": "https://babysorted.com/",
+    "publisher": "BabySorted",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "UK baby product comparison across prams, car seats, nursery and feeding.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Retailer coverage, exact variant matching, access terms and listings need checking.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "my-little-find",
+    "name": "My Little Find",
+    "url": "https://mylittlefind.com/",
+    "publisher": "My Little Find",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "UK baby product price comparisons, history and alerts.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Commercial retailer coverage may be incomplete; verify prices and alert availability.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "priceway",
+    "name": "Priceway",
+    "url": "https://priceway.co.uk/",
+    "publisher": "Priceway",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "UK price comparison across household goods, baby products and other categories.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Limited retailer coverage and exact product matching require verification.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "lowsort",
+    "name": "Lowsort UK",
+    "url": "https://lowsort.com/gb/baby/",
+    "publisher": "Lowsort UK",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "UK baby and household product comparisons including delivery information.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Coverage and shipping assumptions need verification at the seller.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
+  },
+  {
+    "id": "google-shopping",
+    "name": "Google Shopping UK",
+    "url": "https://www.google.com/shopping",
+    "publisher": "Google Shopping UK",
+    "countries": [
+      "GB"
+    ],
+    "languages": [
+      "en"
+    ],
+    "category": "price",
+    "purpose": "Discover product listings across a broad range of categories and merchants.",
+    "authority": "Marketplace or price discovery source; verify each seller and offer.",
+    "accessMethod": "Public search or seller pages; some accounts or local access may be needed.",
+    "automation": "manual",
+    "feedUrl": null,
+    "paywall": false,
+    "commercialInterests": "May receive sales revenue, fees, advertising, subscriptions or referrals; check the provider terms.",
+    "limitations": "Search placement and merchant coverage vary; match the exact product and verify price at the seller.",
+    "cadence": "monthly",
+    "checkedAt": "2026-11-03T14:00:44+00:00"
   }
 ]

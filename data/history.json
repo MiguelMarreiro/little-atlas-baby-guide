@@ -404,5 +404,12 @@
     "stock": "in_stock",
     "currency": "EUR",
     "checkedAt": "2026-11-03T13:20:28.999Z"
+  },
+  {
+    "offerId": "babychild-gb-avi-moss",
+    "price": 439,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-03T13:59:09+00:00"
   }
 ]

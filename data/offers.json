@@ -825,13 +825,13 @@
     "currency": "GBP",
     "expectedSku": "525000441",
     "colour": "Moss Green",
-    "variantDescription": "Seller SKU 525000441; reconcile with manufacturer Moss Green code 525000437.",
+    "variantDescription": "UK Moss Green manufacturer code 525000441 matches CYBEX UK. The Portugal code 525000437 differs; CYBEX does not explain the distinction.",
     "condition": "new",
     "destinations": {
       "GB": {
         "shipping": 0,
         "shippingVerified": true,
-        "freeShippingThreshold": null,
+        "freeShippingThreshold": 50.01,
         "charges": null,
         "delivery": "Confirm delivery or collection and costs for your location.",
         "returns": "Confirm seller-specific returns.",
@@ -841,15 +841,17 @@
     "components": [
       "avi-spin"
     ],
-    "compatibility": "unresolved",
+    "compatibility": "verified",
     "price": 439,
     "stock": "in_stock",
-    "checkedAt": "2026-11-03T13:17:18+00:00",
+    "checkedAt": "2026-11-03T13:59:09+00:00",
     "verification": "retailer",
     "promotion": null,
     "monitoring": "manual",
-    "lastAttemptAt": "2026-11-03T13:17:18+00:00",
-    "lastError": null
+    "lastAttemptAt": "2026-11-03T13:59:09+00:00",
+    "lastError": null,
+    "gtin": "4063846513314",
+    "identityEvidenceUrl": "https://www.cybex-online.com/en/gb/p/10106359.html"
   },
   {
     "id": "babygold-pt-cloud-t-base-t-sage",
@@ -1236,7 +1238,7 @@
     "currency": "GBP",
     "expectedSku": null,
     "colour": "Various",
-    "variantDescription": "Marketplace search only; earlier £150 listing has expired.",
+    "variantDescription": "Search includes an indexed £400 Seashell Beige lead in Edinburgh; the individual listing and current availability are unverified. Earlier £150 Moss Green listing returned HTTP 410.",
     "condition": "used",
     "destinations": {
       "GB": {
@@ -1273,7 +1275,7 @@
     "currency": "GBP",
     "expectedSku": null,
     "colour": "Various",
-    "variantDescription": "Search results only; adapter type, availability, fees and delivery unverified.",
+    "variantDescription": "Indexed listing showed an Avi Spin adapter at £10 (£11.10 including displayed fee); type, seller, shipping and current availability need verification.",
     "condition": "used",
     "destinations": {
       "GB": {

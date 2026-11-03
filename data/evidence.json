@@ -350,5 +350,33 @@
     ],
     "kind": "test",
     "limitations": "Combination-specific historical test. Do not transfer 1.7 to Base Z2, Cloud G, Cloud Z2 or untested configurations; lower ADAC numbers are better, not a universal safety score."
+  },
+  {
+    "id": "avi-moss-uk-code",
+    "title": "Moss Green AVI Spin — UK manufacturer code",
+    "claim": "CYBEX UK identifies the Moss Green AVI Spin as product code 525000441. The UK retailer lists the same code.",
+    "url": "https://www.cybex-online.com/en/gb/p/10106359.html",
+    "publisher": "CYBEX UK",
+    "checkedAt": "2026-11-03T14:00:44+00:00",
+    "status": "supported",
+    "productIds": [
+      "avi-spin"
+    ],
+    "kind": "identity",
+    "limitations": "The manufacturer does not explain whether the UK and Portuguese product codes reflect packaging, market specification or another difference."
+  },
+  {
+    "id": "avi-moss-pt-code",
+    "title": "Moss Green AVI Spin — Portuguese manufacturer code",
+    "claim": "CYBEX Portugal identifies the Moss Green AVI Spin as product code 525000437. Both country pages list the AVI Spin with the same published weight and folded dimensions.",
+    "url": "https://www.cybex-online.com/pt/pt/p/10106356.html",
+    "publisher": "CYBEX Portugal",
+    "checkedAt": "2026-11-03T14:00:44+00:00",
+    "status": "supported",
+    "productIds": [
+      "avi-spin"
+    ],
+    "kind": "identity",
+    "limitations": "The manufacturer does not establish that the two regional products are identical in every detail or that either code is an older model."
   }
 ]
