@@ -32,3 +32,9 @@ GBP is the comparison currency. Original seller currency remains visible. EUR am
 - The project chat shows a later UK-first Deep Research request, but its completed report is not present in the accessible chat record. The prior 1 November report remains the latest full research document accessible locally. The Worten no-VAT example was illustrative, not a verified eligible AVI Spin offer.
 
 The new sources are discovery entries, not enrolled automatic price monitors. The public Cloudflare edition is published manually and does not include these changes until republished.
+
+## 3 November 2026 — Retailer and resale sweep
+
+A fresh run attempted 17 configured retailer URLs. Thirteen succeeded and four failed. BabyGold and Algateckids passed the automated exact-product checks and are now in the daily watchlist. The remaining new sellers and marketplace searches require manual checks. The offer list includes both new and used listings, separately selectable.
+
+The checked OLX listing offered an AVI Spin, Cot S and adapters for €600, subject to seller confirmation and inspection. BabyGold listed the Cloud T Plus and Base T bundle at €458.91, and Baby and Child Store listed a Moss Green AVI Spin at £439, subject to seller SKU reconciliation. Delivery, import charges and vehicle fit remain open. Automated requests to UK Baby Centre, Minicool, Natural Baby Shower and Pramworld were blocked. Search or retailer pages with no current verified offer are kept as links, without fabricated prices.

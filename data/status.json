@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-11-02T17:14:31.767Z",
-  "lastSuccessAt": "2026-11-02T17:14:31.767Z",
+  "lastRunAt": "2026-11-03T13:20:28.999Z",
+  "lastSuccessAt": "2026-11-03T13:20:28.999Z",
   "scheduler": "active",
   "deployment": "manual",
   "schedule": "07:23 UTC daily",
@@ -247,12 +247,36 @@
           "error": "Exact product missing or ambiguous"
         }
       ]
+    },
+    {
+      "at": "2026-11-03T13:20:28.999Z",
+      "attempted": 17,
+      "succeeded": 13,
+      "failed": 4,
+      "errors": [
+        {
+          "offerId": "outnabout-nipper-v6-summit-black",
+          "error": "HTTP 429"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-sycamore-green",
+          "error": "HTTP 429"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-brambleberry-red",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "thule-gb-urban-glide-3-mid-blue",
+          "error": "Exact product missing or ambiguous"
+        }
+      ]
     }
   ],
   "health": "warning",
   "counts": {
-    "attempted": 15,
-    "succeeded": 11,
+    "attempted": 17,
+    "succeeded": 13,
     "failed": 4,
     "deferred": 0,
     "fxSuccess": true
@@ -260,14 +284,14 @@
   "errors": [
     {
       "offerId": "outnabout-nipper-v6-summit-black",
-      "error": "Exact product missing or ambiguous"
-    },
-    {
-      "offerId": "outnabout-nipper-v6-brambleberry-red",
-      "error": "Exact product missing or ambiguous"
+      "error": "HTTP 429"
     },
     {
       "offerId": "outnabout-nipper-v6-sycamore-green",
+      "error": "HTTP 429"
+    },
+    {
+      "offerId": "outnabout-nipper-v6-brambleberry-red",
       "error": "Exact product missing or ambiguous"
     },
     {
