@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-11-17T16:57:25.319Z",
-  "lastSuccessAt": "2026-11-17T16:57:25.319Z",
+  "lastRunAt": "2026-11-18T16:34:29.488Z",
+  "lastSuccessAt": "2026-11-18T16:34:29.488Z",
   "scheduler": "active",
   "deployment": "manual",
   "schedule": "07:23 UTC daily",
@@ -19,10 +19,12 @@
     {
       "id": "outnabout",
       "name": "Out'n'About pushchairs",
-      "lastAttemptAt": "2026-11-17T16:57:43.937Z",
-      "state": "failed",
-      "error": "fetch failed",
-      "message": "Automatic access failed. Use the source link for a manual check."
+      "lastAttemptAt": "2026-11-18T16:34:56.609Z",
+      "state": "reachable",
+      "error": null,
+      "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+      "checkedAt": "2026-11-18T16:34:56.609Z",
+      "hash": "0cd21d5eb5ab6c84f14f53188359eb0f14c14710544bd2ce319c2eedcb672596"
     },
     {
       "id": "mountain-buggy",
@@ -47,7 +49,7 @@
     {
       "id": "unece-r129",
       "name": "UN Regulation No. 129",
-      "lastAttemptAt": "2026-11-17T16:57:43.937Z",
+      "lastAttemptAt": "2026-11-18T16:34:56.609Z",
       "state": "failed",
       "error": "HTTP 403",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -55,7 +57,7 @@
     {
       "id": "eu-safety-gate",
       "name": "EU Safety Gate",
-      "lastAttemptAt": "2026-11-17T16:57:43.937Z",
+      "lastAttemptAt": "2026-11-18T16:34:56.609Z",
       "state": "failed",
       "error": "Insufficient readable content; manual review required",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -63,10 +65,10 @@
     {
       "id": "uk-opss-recalls",
       "name": "UK Product Recalls and Alerts (OPSS)",
-      "lastAttemptAt": "2026-11-16T17:10:52.321Z",
-      "checkedAt": "2026-11-16T17:10:52.321Z",
+      "lastAttemptAt": "2026-11-18T16:34:56.609Z",
+      "checkedAt": "2026-11-18T16:34:56.609Z",
       "state": "changed",
-      "hash": "a731309054c7ec61febbf6f59f90846fb3c9f13857667e117ad72e4f462ac2a8",
+      "hash": "c271463605ee33cf89c9f68dd2cd57a592ff34b0456bfcff0e3e21566b8d6a40",
       "message": "Source reachable. Check exact product and affected batch manually; this is not a full recall clearance.",
       "error": null
     },
@@ -133,7 +135,7 @@
     {
       "id": "egeszsegvonal-child-travel",
       "name": "Egészségvonal: travelling with children",
-      "lastAttemptAt": "2026-11-17T16:57:43.937Z",
+      "lastAttemptAt": "2026-11-18T16:34:56.609Z",
       "state": "failed",
       "error": "HTTP 403",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -647,6 +649,38 @@
           "error": "Exact product missing or ambiguous"
         }
       ]
+    },
+    {
+      "at": "2026-11-18T16:34:29.488Z",
+      "attempted": 17,
+      "succeeded": 11,
+      "failed": 6,
+      "errors": [
+        {
+          "offerId": "cybex-gb-cloud-t-sepia-black",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "cybex-gb-base-t-black",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-summit-black",
+          "error": "HTTP 404"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-sycamore-green",
+          "error": "HTTP 404"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-brambleberry-red",
+          "error": "HTTP 404"
+        },
+        {
+          "offerId": "thule-gb-urban-glide-3-mid-blue",
+          "error": "Exact product missing or ambiguous"
+        }
+      ]
     }
   ],
   "health": "warning",
@@ -668,32 +702,32 @@
     },
     {
       "offerId": "outnabout-nipper-v6-summit-black",
-      "error": "Exact product missing or ambiguous"
+      "error": "HTTP 404"
     },
     {
       "offerId": "outnabout-nipper-v6-sycamore-green",
-      "error": "Exact product missing or ambiguous"
+      "error": "HTTP 404"
     },
     {
       "offerId": "outnabout-nipper-v6-brambleberry-red",
-      "error": "Exact product missing or ambiguous"
+      "error": "HTTP 404"
     },
     {
       "offerId": "thule-gb-urban-glide-3-mid-blue",
       "error": "Exact product missing or ambiguous"
     }
   ],
-  "sourceCheckRunAt": "2026-11-17T16:57:43.937Z",
+  "sourceCheckRunAt": "2026-11-18T16:34:56.609Z",
   "recalls": {
-    "lastAttemptAt": "2026-11-17T16:57:48.796Z",
-    "checkedAt": "2026-11-17T16:57:48.796Z",
+    "lastAttemptAt": "2026-11-18T16:34:59.101Z",
+    "checkedAt": "2026-11-18T16:34:59.101Z",
     "source": "https://www.gov.uk/product-safety-alerts-reports-recalls.atom",
     "entriesChecked": 50,
     "matches": [],
     "state": "checked",
     "message": "Checked 50 recent UK feed entries. 0 potential keyword matches. This feed is not the full historical database; EU Safety Gate remains a manual check."
   },
-  "workflowRunId": "44131586171",
+  "workflowRunId": "44348764881",
   "trigger": "schedule",
-  "lastScheduledCheckAt": "2026-11-17T16:57:25.319Z"
+  "lastScheduledCheckAt": "2026-11-18T16:34:29.488Z"
 }

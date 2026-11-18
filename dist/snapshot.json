@@ -1593,11 +1593,11 @@
       "compatibility": "verified",
       "price": 609.95,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -1634,11 +1634,11 @@
       "compatibility": "verified",
       "price": 209.95,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -1679,7 +1679,7 @@
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": "Exact product missing or ambiguous"
     },
     {
@@ -1720,7 +1720,7 @@
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": "Exact product missing or ambiguous"
     },
     {
@@ -1757,11 +1757,11 @@
       "compatibility": "verified",
       "price": 44.95,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -1798,11 +1798,11 @@
       "compatibility": "verified",
       "price": 44.95,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -1839,11 +1839,11 @@
       "compatibility": "verified",
       "price": 649.95,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -1880,11 +1880,11 @@
       "compatibility": "verified",
       "price": 249.95,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -1921,11 +1921,11 @@
       "compatibility": "verified",
       "price": 219.95,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -1962,11 +1962,11 @@
       "compatibility": "verified",
       "price": 49.95,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -2003,11 +2003,11 @@
       "compatibility": "verified",
       "price": 49.95,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -2047,8 +2047,8 @@
       "verification": "retailer",
       "promotion": null,
       "monitoring": "candidate",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
-      "lastError": "Exact product missing or ambiguous"
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
+      "lastError": "HTTP 404"
     },
     {
       "id": "outnabout-nipper-v6-sycamore-green",
@@ -2087,8 +2087,8 @@
       "verification": "retailer",
       "promotion": null,
       "monitoring": "candidate",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
-      "lastError": "Exact product missing or ambiguous"
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
+      "lastError": "HTTP 404"
     },
     {
       "id": "outnabout-nipper-v6-brambleberry-red",
@@ -2127,8 +2127,8 @@
       "verification": "retailer",
       "promotion": null,
       "monitoring": "candidate",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
-      "lastError": "Exact product missing or ambiguous"
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
+      "lastError": "HTTP 404"
     },
     {
       "id": "thule-gb-urban-glide-3-mid-blue",
@@ -2167,7 +2167,7 @@
       "verification": "retailer",
       "promotion": null,
       "monitoring": "candidate",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": "Exact product missing or ambiguous"
     },
     {
@@ -2444,11 +2444,11 @@
       "compatibility": "verified",
       "price": 458.91,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -2481,11 +2481,11 @@
       "compatibility": "verified",
       "price": 649.95,
       "stock": "in_stock",
-      "checkedAt": "2026-11-17T16:57:25.319Z",
+      "checkedAt": "2026-11-18T16:34:29.488Z",
       "verification": "retailer",
       "promotion": null,
       "monitoring": "automatic",
-      "lastAttemptAt": "2026-11-17T16:57:25.319Z",
+      "lastAttemptAt": "2026-11-18T16:34:29.488Z",
       "lastError": null
     },
     {
@@ -4723,48 +4723,125 @@
       "stock": "in_stock",
       "currency": "EUR",
       "checkedAt": "2026-11-17T16:57:25.319Z"
+    },
+    {
+      "offerId": "cybex-gb-cot-s-stormy-blue",
+      "price": 209.95,
+      "stock": "in_stock",
+      "currency": "GBP",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
+    },
+    {
+      "offerId": "cybex-gb-avi-spin-moon-black",
+      "price": 609.95,
+      "stock": "in_stock",
+      "currency": "GBP",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
+    },
+    {
+      "offerId": "cybex-gb-avi-cot-adapter-black",
+      "price": 44.95,
+      "stock": "in_stock",
+      "currency": "GBP",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
+    },
+    {
+      "offerId": "cybex-gb-avi-car-adapter-black",
+      "price": 44.95,
+      "stock": "in_stock",
+      "currency": "GBP",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
+    },
+    {
+      "offerId": "cybex-pt-avi-spin-seashell-beige",
+      "price": 649.95,
+      "stock": "in_stock",
+      "currency": "EUR",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
+    },
+    {
+      "offerId": "cybex-pt-cloud-t-mirage-grey",
+      "price": 249.95,
+      "stock": "in_stock",
+      "currency": "EUR",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
+    },
+    {
+      "offerId": "cybex-pt-base-t-black",
+      "price": 219.95,
+      "stock": "in_stock",
+      "currency": "EUR",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
+    },
+    {
+      "offerId": "cybex-pt-avi-cot-adapter-black",
+      "price": 49.95,
+      "stock": "in_stock",
+      "currency": "EUR",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
+    },
+    {
+      "offerId": "cybex-pt-avi-car-adapter-black",
+      "price": 49.95,
+      "stock": "in_stock",
+      "currency": "EUR",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
+    },
+    {
+      "offerId": "algatec-pt-avi-moss",
+      "price": 649.95,
+      "stock": "in_stock",
+      "currency": "EUR",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
+    },
+    {
+      "offerId": "babygold-pt-cloud-t-base-t-sage",
+      "price": 458.91,
+      "stock": "in_stock",
+      "currency": "EUR",
+      "checkedAt": "2026-11-18T16:34:29.488Z"
     }
   ],
   "fx": {
     "base": "EUR",
     "rates": {
       "EUR": 1,
-      "USD": 1.0989,
-      "JPY": 175.05,
-      "CZK": 24.387,
-      "DKK": 7.4749,
-      "GBP": 0.83305,
-      "HUF": 364.93,
-      "PLN": 4.4038,
-      "RON": 5.3482,
-      "SEK": 11.11,
-      "CHF": 0.9233,
+      "USD": 1.0968,
+      "JPY": 174.85,
+      "CZK": 24.386,
+      "DKK": 7.4744,
+      "GBP": 0.8329,
+      "HUF": 368.4,
+      "PLN": 4.4118,
+      "RON": 5.3467,
+      "SEK": 11.143,
+      "CHF": 0.9243,
       "ISK": 137,
-      "NOK": 10.5755,
-      "TRY": 55.3987,
-      "AUD": 1.6316,
-      "BRL": 6.3539,
-      "CAD": 1.5704,
-      "CNY": 7.3254,
-      "HKD": 8.6221,
-      "IDR": 20077.73,
-      "ILS": 3.5674,
-      "INR": 102.72,
-      "KRW": 1468.36,
-      "MXN": 20.2895,
-      "MYR": 4.4983,
-      "NZD": 1.9985,
-      "PHP": 69.974,
-      "SGD": 1.4163,
-      "THB": 37.187,
-      "ZAR": 18.6073
+      "NOK": 10.6045,
+      "TRY": 55.3197,
+      "AUD": 1.6294,
+      "BRL": 6.3818,
+      "CAD": 1.569,
+      "CNY": 7.3126,
+      "HKD": 8.6063,
+      "IDR": 20020.71,
+      "ILS": 3.5798,
+      "INR": 102.4905,
+      "KRW": 1461.3,
+      "MXN": 20.3738,
+      "MYR": 4.5144,
+      "NZD": 1.9951,
+      "PHP": 69.832,
+      "SGD": 1.4144,
+      "THB": 37.264,
+      "ZAR": 18.8897
     },
-    "date": "2026-11-17",
-    "checkedAt": "2026-11-17T16:57:25.319Z"
+    "date": "2026-11-18",
+    "checkedAt": "2026-11-18T16:34:29.488Z"
   },
   "status": {
-    "lastRunAt": "2026-11-17T16:57:25.319Z",
-    "lastSuccessAt": "2026-11-17T16:57:25.319Z",
+    "lastRunAt": "2026-11-18T16:34:29.488Z",
+    "lastSuccessAt": "2026-11-18T16:34:29.488Z",
     "scheduler": "active",
     "deployment": "manual",
     "schedule": "07:23 UTC daily",
@@ -4783,10 +4860,12 @@
       {
         "id": "outnabout",
         "name": "Out'n'About pushchairs",
-        "lastAttemptAt": "2026-11-17T16:57:43.937Z",
-        "state": "failed",
-        "error": "fetch failed",
-        "message": "Automatic access failed. Use the source link for a manual check."
+        "lastAttemptAt": "2026-11-18T16:34:56.609Z",
+        "state": "reachable",
+        "error": null,
+        "message": "Page reachable. Accessibility check only; existing evidence has not been re-reviewed.",
+        "checkedAt": "2026-11-18T16:34:56.609Z",
+        "hash": "0cd21d5eb5ab6c84f14f53188359eb0f14c14710544bd2ce319c2eedcb672596"
       },
       {
         "id": "mountain-buggy",
@@ -4811,7 +4890,7 @@
       {
         "id": "unece-r129",
         "name": "UN Regulation No. 129",
-        "lastAttemptAt": "2026-11-17T16:57:43.937Z",
+        "lastAttemptAt": "2026-11-18T16:34:56.609Z",
         "state": "failed",
         "error": "HTTP 403",
         "message": "Automatic access failed. Use the source link for a manual check."
@@ -4819,7 +4898,7 @@
       {
         "id": "eu-safety-gate",
         "name": "EU Safety Gate",
-        "lastAttemptAt": "2026-11-17T16:57:43.937Z",
+        "lastAttemptAt": "2026-11-18T16:34:56.609Z",
         "state": "failed",
         "error": "Insufficient readable content; manual review required",
         "message": "Automatic access failed. Use the source link for a manual check."
@@ -4827,10 +4906,10 @@
       {
         "id": "uk-opss-recalls",
         "name": "UK Product Recalls and Alerts (OPSS)",
-        "lastAttemptAt": "2026-11-16T17:10:52.321Z",
-        "checkedAt": "2026-11-16T17:10:52.321Z",
+        "lastAttemptAt": "2026-11-18T16:34:56.609Z",
+        "checkedAt": "2026-11-18T16:34:56.609Z",
         "state": "changed",
-        "hash": "a731309054c7ec61febbf6f59f90846fb3c9f13857667e117ad72e4f462ac2a8",
+        "hash": "c271463605ee33cf89c9f68dd2cd57a592ff34b0456bfcff0e3e21566b8d6a40",
         "message": "Source reachable. Check exact product and affected batch manually; this is not a full recall clearance.",
         "error": null
       },
@@ -4897,7 +4976,7 @@
       {
         "id": "egeszsegvonal-child-travel",
         "name": "Egészségvonal: travelling with children",
-        "lastAttemptAt": "2026-11-17T16:57:43.937Z",
+        "lastAttemptAt": "2026-11-18T16:34:56.609Z",
         "state": "failed",
         "error": "HTTP 403",
         "message": "Automatic access failed. Use the source link for a manual check."
@@ -5411,6 +5490,38 @@
             "error": "Exact product missing or ambiguous"
           }
         ]
+      },
+      {
+        "at": "2026-11-18T16:34:29.488Z",
+        "attempted": 17,
+        "succeeded": 11,
+        "failed": 6,
+        "errors": [
+          {
+            "offerId": "cybex-gb-cloud-t-sepia-black",
+            "error": "Exact product missing or ambiguous"
+          },
+          {
+            "offerId": "cybex-gb-base-t-black",
+            "error": "Exact product missing or ambiguous"
+          },
+          {
+            "offerId": "outnabout-nipper-v6-summit-black",
+            "error": "HTTP 404"
+          },
+          {
+            "offerId": "outnabout-nipper-v6-sycamore-green",
+            "error": "HTTP 404"
+          },
+          {
+            "offerId": "outnabout-nipper-v6-brambleberry-red",
+            "error": "HTTP 404"
+          },
+          {
+            "offerId": "thule-gb-urban-glide-3-mid-blue",
+            "error": "Exact product missing or ambiguous"
+          }
+        ]
       }
     ],
     "health": "warning",
@@ -5432,34 +5543,34 @@
       },
       {
         "offerId": "outnabout-nipper-v6-summit-black",
-        "error": "Exact product missing or ambiguous"
+        "error": "HTTP 404"
       },
       {
         "offerId": "outnabout-nipper-v6-sycamore-green",
-        "error": "Exact product missing or ambiguous"
+        "error": "HTTP 404"
       },
       {
         "offerId": "outnabout-nipper-v6-brambleberry-red",
-        "error": "Exact product missing or ambiguous"
+        "error": "HTTP 404"
       },
       {
         "offerId": "thule-gb-urban-glide-3-mid-blue",
         "error": "Exact product missing or ambiguous"
       }
     ],
-    "sourceCheckRunAt": "2026-11-17T16:57:43.937Z",
+    "sourceCheckRunAt": "2026-11-18T16:34:56.609Z",
     "recalls": {
-      "lastAttemptAt": "2026-11-17T16:57:48.796Z",
-      "checkedAt": "2026-11-17T16:57:48.796Z",
+      "lastAttemptAt": "2026-11-18T16:34:59.101Z",
+      "checkedAt": "2026-11-18T16:34:59.101Z",
       "source": "https://www.gov.uk/product-safety-alerts-reports-recalls.atom",
       "entriesChecked": 50,
       "matches": [],
       "state": "checked",
       "message": "Checked 50 recent UK feed entries. 0 potential keyword matches. This feed is not the full historical database; EU Safety Gate remains a manual check."
     },
-    "workflowRunId": "44131586171",
+    "workflowRunId": "44348764881",
     "trigger": "schedule",
-    "lastScheduledCheckAt": "2026-11-17T16:57:25.319Z"
+    "lastScheduledCheckAt": "2026-11-18T16:34:29.488Z"
   },
   "baskets": [
     {
@@ -5535,5 +5646,5 @@
       "note": "Carrycot plus and exact car-seat adapter route require complete itemized pricing. Running instructions have a recorded conflict."
     }
   ],
-  "generatedAt": "2026-11-17T16:57:49.753Z"
+  "generatedAt": "2026-11-18T16:34:59.579Z"
 }
