@@ -33,11 +33,11 @@
     "compatibility": "verified",
     "price": 609.95,
     "stock": "in_stock",
-    "checkedAt": "2026-11-23T19:21:12.573Z",
+    "checkedAt": "2026-11-24T18:57:58.445Z",
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": null
   },
   {
@@ -74,11 +74,11 @@
     "compatibility": "verified",
     "price": 209.95,
     "stock": "in_stock",
-    "checkedAt": "2026-11-23T19:21:12.573Z",
+    "checkedAt": "2026-11-24T18:57:58.445Z",
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": null
   },
   {
@@ -119,7 +119,7 @@
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": "Exact product missing or ambiguous"
   },
   {
@@ -160,7 +160,7 @@
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": "Exact product missing or ambiguous"
   },
   {
@@ -197,11 +197,11 @@
     "compatibility": "verified",
     "price": 44.95,
     "stock": "in_stock",
-    "checkedAt": "2026-11-23T19:21:12.573Z",
+    "checkedAt": "2026-11-24T18:57:58.445Z",
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": null
   },
   {
@@ -238,11 +238,11 @@
     "compatibility": "verified",
     "price": 44.95,
     "stock": "in_stock",
-    "checkedAt": "2026-11-23T19:21:12.573Z",
+    "checkedAt": "2026-11-24T18:57:58.445Z",
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": null
   },
   {
@@ -279,11 +279,11 @@
     "compatibility": "verified",
     "price": 649.95,
     "stock": "in_stock",
-    "checkedAt": "2026-11-23T19:21:12.573Z",
+    "checkedAt": "2026-11-24T18:57:58.445Z",
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": null
   },
   {
@@ -324,8 +324,8 @@
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
-    "lastError": null
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
+    "lastError": "Exact product missing or ambiguous"
   },
   {
     "id": "cybex-pt-base-t-black",
@@ -365,8 +365,8 @@
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
-    "lastError": null
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
+    "lastError": "Exact product missing or ambiguous"
   },
   {
     "id": "cybex-pt-avi-cot-adapter-black",
@@ -402,11 +402,11 @@
     "compatibility": "verified",
     "price": 49.95,
     "stock": "in_stock",
-    "checkedAt": "2026-11-23T19:21:12.573Z",
+    "checkedAt": "2026-11-24T18:57:58.445Z",
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": null
   },
   {
@@ -443,11 +443,11 @@
     "compatibility": "verified",
     "price": 49.95,
     "stock": "in_stock",
-    "checkedAt": "2026-11-23T19:21:12.573Z",
+    "checkedAt": "2026-11-24T18:57:58.445Z",
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": null
   },
   {
@@ -487,7 +487,7 @@
     "verification": "retailer",
     "promotion": null,
     "monitoring": "candidate",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": "Exact product missing or ambiguous"
   },
   {
@@ -527,7 +527,7 @@
     "verification": "retailer",
     "promotion": null,
     "monitoring": "candidate",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": "Exact product missing or ambiguous"
   },
   {
@@ -567,7 +567,7 @@
     "verification": "retailer",
     "promotion": null,
     "monitoring": "candidate",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": "Exact product missing or ambiguous"
   },
   {
@@ -607,7 +607,7 @@
     "verification": "retailer",
     "promotion": null,
     "monitoring": "candidate",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": "Exact product missing or ambiguous"
   },
   {
@@ -884,11 +884,11 @@
     "compatibility": "verified",
     "price": 458.91,
     "stock": "in_stock",
-    "checkedAt": "2026-11-23T19:21:12.573Z",
+    "checkedAt": "2026-11-24T18:57:58.445Z",
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": null
   },
   {
@@ -921,11 +921,11 @@
     "compatibility": "verified",
     "price": 649.95,
     "stock": "in_stock",
-    "checkedAt": "2026-11-23T19:21:12.573Z",
+    "checkedAt": "2026-11-24T18:57:58.445Z",
     "verification": "retailer",
     "promotion": null,
     "monitoring": "automatic",
-    "lastAttemptAt": "2026-11-23T19:21:12.573Z",
+    "lastAttemptAt": "2026-11-24T18:57:58.445Z",
     "lastError": null
   },
   {

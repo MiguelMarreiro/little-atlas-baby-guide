@@ -2210,5 +2210,68 @@
     "stock": "in_stock",
     "currency": "EUR",
     "checkedAt": "2026-11-23T19:21:12.573Z"
+  },
+  {
+    "offerId": "cybex-gb-avi-spin-moon-black",
+    "price": 609.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-24T18:57:58.445Z"
+  },
+  {
+    "offerId": "cybex-gb-cot-s-stormy-blue",
+    "price": 209.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-24T18:57:58.445Z"
+  },
+  {
+    "offerId": "cybex-gb-avi-cot-adapter-black",
+    "price": 44.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-24T18:57:58.445Z"
+  },
+  {
+    "offerId": "cybex-gb-avi-car-adapter-black",
+    "price": 44.95,
+    "stock": "in_stock",
+    "currency": "GBP",
+    "checkedAt": "2026-11-24T18:57:58.445Z"
+  },
+  {
+    "offerId": "cybex-pt-avi-spin-seashell-beige",
+    "price": 649.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-24T18:57:58.445Z"
+  },
+  {
+    "offerId": "cybex-pt-avi-cot-adapter-black",
+    "price": 49.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-24T18:57:58.445Z"
+  },
+  {
+    "offerId": "cybex-pt-avi-car-adapter-black",
+    "price": 49.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-24T18:57:58.445Z"
+  },
+  {
+    "offerId": "babygold-pt-cloud-t-base-t-sage",
+    "price": 458.91,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-24T18:57:58.445Z"
+  },
+  {
+    "offerId": "algatec-pt-avi-moss",
+    "price": 649.95,
+    "stock": "in_stock",
+    "currency": "EUR",
+    "checkedAt": "2026-11-24T18:57:58.445Z"
   }
 ]
