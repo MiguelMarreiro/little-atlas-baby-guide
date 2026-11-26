@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-11-25T18:02:21.886Z",
-  "lastSuccessAt": "2026-11-25T18:02:21.886Z",
+  "lastRunAt": "2026-11-26T17:48:17.005Z",
+  "lastSuccessAt": "2026-11-26T17:48:17.005Z",
   "scheduler": "active",
   "deployment": "manual",
   "schedule": "07:23 UTC daily",
@@ -49,7 +49,7 @@
     {
       "id": "unece-r129",
       "name": "UN Regulation No. 129",
-      "lastAttemptAt": "2026-11-25T18:02:50.377Z",
+      "lastAttemptAt": "2026-11-26T17:49:04.615Z",
       "state": "failed",
       "error": "HTTP 403",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -57,7 +57,7 @@
     {
       "id": "eu-safety-gate",
       "name": "EU Safety Gate",
-      "lastAttemptAt": "2026-11-25T18:02:50.377Z",
+      "lastAttemptAt": "2026-11-26T17:49:04.615Z",
       "state": "failed",
       "error": "Insufficient readable content; manual review required",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -135,7 +135,7 @@
     {
       "id": "egeszsegvonal-child-travel",
       "name": "Egészségvonal: travelling with children",
-      "lastAttemptAt": "2026-11-25T18:02:50.377Z",
+      "lastAttemptAt": "2026-11-26T17:49:04.615Z",
       "state": "failed",
       "error": "HTTP 403",
       "message": "Automatic access failed. Use the source link for a manual check."
@@ -925,13 +925,53 @@
           "error": "fetch failed"
         }
       ]
+    },
+    {
+      "at": "2026-11-26T17:48:17.005Z",
+      "attempted": 17,
+      "succeeded": 9,
+      "failed": 8,
+      "errors": [
+        {
+          "offerId": "cybex-gb-base-t-black",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "cybex-gb-cloud-t-sepia-black",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "cybex-pt-cloud-t-mirage-grey",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "cybex-pt-base-t-black",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-sycamore-green",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-summit-black",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "outnabout-nipper-v6-brambleberry-red",
+          "error": "Exact product missing or ambiguous"
+        },
+        {
+          "offerId": "thule-gb-urban-glide-3-mid-blue",
+          "error": "The operation was aborted due to timeout"
+        }
+      ]
     }
   ],
   "health": "warning",
   "counts": {
     "attempted": 17,
-    "succeeded": 8,
-    "failed": 9,
+    "succeeded": 9,
+    "failed": 8,
     "deferred": 0,
     "fxSuccess": true
   },
@@ -953,11 +993,11 @@
       "error": "Exact product missing or ambiguous"
     },
     {
-      "offerId": "outnabout-nipper-v6-summit-black",
+      "offerId": "outnabout-nipper-v6-sycamore-green",
       "error": "Exact product missing or ambiguous"
     },
     {
-      "offerId": "outnabout-nipper-v6-sycamore-green",
+      "offerId": "outnabout-nipper-v6-summit-black",
       "error": "Exact product missing or ambiguous"
     },
     {
@@ -966,24 +1006,20 @@
     },
     {
       "offerId": "thule-gb-urban-glide-3-mid-blue",
-      "error": "Exact product missing or ambiguous"
-    },
-    {
-      "offerId": "babygold-pt-cloud-t-base-t-sage",
-      "error": "fetch failed"
+      "error": "The operation was aborted due to timeout"
     }
   ],
-  "sourceCheckRunAt": "2026-11-25T18:02:50.377Z",
+  "sourceCheckRunAt": "2026-11-26T17:49:04.615Z",
   "recalls": {
-    "lastAttemptAt": "2026-11-25T18:02:52.550Z",
-    "checkedAt": "2026-11-25T18:02:52.550Z",
+    "lastAttemptAt": "2026-11-26T17:49:06.592Z",
+    "checkedAt": "2026-11-26T17:49:06.592Z",
     "source": "https://www.gov.uk/product-safety-alerts-reports-recalls.atom",
     "entriesChecked": 50,
     "matches": [],
     "state": "checked",
     "message": "Checked 50 recent UK feed entries. 0 potential keyword matches. This feed is not the full historical database; EU Safety Gate remains a manual check."
   },
-  "workflowRunId": "45670979934",
+  "workflowRunId": "45870773784",
   "trigger": "schedule",
-  "lastScheduledCheckAt": "2026-11-25T18:02:21.886Z"
+  "lastScheduledCheckAt": "2026-11-26T17:48:17.005Z"
 }
